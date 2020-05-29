@@ -21,7 +21,9 @@
 项目的奖金额度是多少？
 项目难度分为高、中、低三档，对应税前奖金分别为高（12000 元）、中（9000 元）、低（6000 元）。
 
-# Wechaty 及可选项目
+# Wechaty Code in Summer 2020
+
+[Wechaty 社区暑期2020点亮计划](https://github.com/wechaty/summer-of-code)
 
 ## Wechaty 是什么
 
@@ -65,10 +67,12 @@ Wechaty is a Conversational AI RPA Chatbot SDK for Wechat **Individual** Account
 > &mdash; <cite>[@Simple](https://github.com/mrwhh)</cite>
 
 ## Wechaty 希望实现的新进展及可选项目列表
+
 Wechaty 希望实现多功能、多语言、多平台三个层次，成为易用度最高、可迁移性最强的聊天机器人框架。   
 多功能是指，在 Wechaty 已经上线的插件系统的基础上，将特定功能按一定形式封装成接口，让其他开发者可以以仅添加短至一行代码的方式，使用原有数百行代码才能完成的功能。   
 多语言是指，针对同一套功能，能使用多种编程语言调用不同功能、不同平台的微信机器人，并通过打通多语言之间的通路，实现针对每门语言开发的功能都能同步到其余所有语言中。   
-多平台是指，在现有的基于微信个人号的聊天机器人框架基础上，逐渐覆盖包括企业微信、钉钉、飞书的多个IM，并通过封装同一套应用层代码的形式，仅更改一个变量就将同一套聊天机器人代码迁移到多个平台中。   
+多平台是指，在现有的基于微信个人号的聊天机器人框架基础上，逐渐覆盖包括企业微信、钉钉、飞书的多个IM，并通过封装同一套应用层代码的形式，仅更改一个变量就将同一套聊天机器人代码迁移到多个平台中。
+
 ### 多功能（Plugin）
 - （难度：中）基于python-wechaty的群聊助手机器人（https://github.com/wechaty/summer-of-code/issues/6）
 - （难度：中）基于Python-wechaty建立一个斗图机器人（https://github.com/wechaty/summer-of-code/issues/7）
