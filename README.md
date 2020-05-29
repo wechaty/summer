@@ -32,13 +32,13 @@ Wechaty 希望实现多功能、多语言、多平台三个层次，成为易用
 多语言是指，针对同一套功能，能使用多种编程语言调用不同功能、不同平台的微信机器人，并通过打通多语言之间的通路，实现针对每门语言开发的功能都能同步到其余所有语言中。   
 多平台是指，在现有的基于微信个人号的聊天机器人框架基础上，逐渐覆盖包括企业微信、钉钉、飞书的多个IM，并通过封装同一套应用层代码的形式，仅更改一个变量就将同一套聊天机器人代码迁移到多个平台中。   
 ### 多功能（Plugin）
-- （难度：低）基于python-wechaty的群聊助手机器人（https://github.com/wechaty/summer-of-code/issues/6）
-- （难度：低）基于Python-wechaty建立一个斗图机器人（https://github.com/wechaty/summer-of-code/issues/7）
-- （难度：中）编写一个“每日一句”插件（https://github.com/wechaty/summer-of-code/issues/10）
+- （难度：中）基于python-wechaty的群聊助手机器人（https://github.com/wechaty/summer-of-code/issues/6）
+- （难度：中）基于Python-wechaty建立一个斗图机器人（https://github.com/wechaty/summer-of-code/issues/7）
+- （难度：低）编写一个“每日一句”插件（https://github.com/wechaty/summer-of-code/issues/10）
 ### 多语言（Muti-Lang）
-- （难度：高）为 go-wechaty 设计实现 插件体系（https://github.com/wechaty/summer-of-code/issues/9）
-- （难度：高）Go-wechaty Github Action optimization（https://github.com/wechaty/summer-of-code/issues/8）
-- （难度：高）Wechaty Java 移植组件开发（https://github.com/wechaty/summer-of-code/issues/4）
+- （难度：中）为 go-wechaty 设计实现 插件体系（https://github.com/wechaty/summer-of-code/issues/9）
+- （难度：中）Go-wechaty Github Action optimization（https://github.com/wechaty/summer-of-code/issues/8）
+- （难度：低）Wechaty Java 移植组件开发（https://github.com/wechaty/summer-of-code/issues/4）
 ### 多平台（Muti-Plat）
 - （难度：高）基于开放 API 封装 Wechaty 接口下的企业微信聊天机器人（https://github.com/wechaty/summer-of-code/issues/2）
 - （难度：高）基于开放 API 封装 Wechaty 接口下的钉钉聊天机器人（https://github.com/wechaty/summer-of-code/issues/11）
