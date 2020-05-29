@@ -43,6 +43,8 @@ Wechaty 希望实现多功能、多语言、多平台三个层次，成为易用
 - （难度：高）基于开放 API 封装 Wechaty 接口下的企业微信聊天机器人（https://github.com/wechaty/summer-of-code/issues/2）
 - （难度：高）基于开放 API 封装 Wechaty 接口下的钉钉聊天机器人（https://github.com/wechaty/summer-of-code/issues/11）
 - （难度：高）基于开放 API 封装 Wechaty 接口下的飞书聊天机器人（https://github.com/wechaty/summer-of-code/issues/12）
+- （难度：高）基于 RPA 封装 Wechaty 接口下的抖音聊天机器人（https://github.com/wechaty/summer-of-code/issues/13）
+- （难度：高）基于 RPA 封装 Wechaty 接口下的快手聊天机器人（https://github.com/wechaty/summer-of-code/issues/14）
 
 
 # 投递要求
