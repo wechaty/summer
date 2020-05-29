@@ -43,3 +43,13 @@ Wechaty 希望实现多功能、多语言、多平台三个层次，成为易用
 - （难度：高）基于开放 API 封装 Wechaty 接口下的企业微信聊天机器人（https://github.com/wechaty/summer-of-code/issues/2）
 - （难度：高）基于开放 API 封装 Wechaty 接口下的钉钉聊天机器人（https://github.com/wechaty/summer-of-code/issues/11）
 - （难度：高）基于开放 API 封装 Wechaty 接口下的飞书聊天机器人（https://github.com/wechaty/summer-of-code/issues/12）
+
+
+# 投递要求
+申请学生需要同时完成以下“联系社区”和“官网投递”两个环节：
+
+1. 联系社区（2020年5月15日至6月20日）
+扫描二维码添加 Wechaty 社区官方机器人 Friday BOT
+[Friday BOT](https://camo.githubusercontent.com/48e830f95ba1e018c365013991e685951b8cf5f4/68747470733a2f2f776563686174792e6769746875622e696f2f776563686174792f696d616765732f626f742d71722d636f64652e706e67)
+2. 官网投递（2020年6月1日至6月20日）
+详见：https://isrc.iscas.ac.cn/summer2020/help/student.html#学生如何报名
