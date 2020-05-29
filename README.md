@@ -24,7 +24,45 @@
 # Wechaty 及可选项目
 
 ## Wechaty 是什么
-Wechaty 是一个开源聊天机器人框架SDK，具有高度封装、高可用的特性，支持NodeJs,  Python,  Go 和Java 等多语言版本。在过去的4年中，服务了数万名开发者，收获了 Github 的 8000 Star。同时配置了完整的DevOps体系并持续按照Apache 的方式管理技术社区。
+
+Wechaty 是一个开源聊天机器人框架SDK，具有高度封装、高可用的特性，支持NodeJs,  Python,  Go 和Java 等多语言版本。在过去的4年中，服务了数万名开发者，收获了 Github 的 8000 Star。同时配置了完整的 DevOps 体系并持续按照 Apache 的方式管理技术社区。
+
+[![Wechaty](https://wechaty.github.io/wechaty/images/wechaty-logo-green-en.png)](https://github.com/wechaty/wechaty)
+
+[![Downloads](https://img.shields.io/npm/dm/wechaty.svg?style=flat-square)](https://www.npmjs.com/package/wechaty)
+[![GitHub stars](https://img.shields.io/github/stars/wechaty/wechaty.svg?label=github%20stars)](https://github.com/wechaty/wechaty)
+[![Docker Pulls](https://img.shields.io/docker/pulls/zixia/wechaty.svg?maxAge=2592000)](https://hub.docker.com/r/zixia/wechaty/)
+[![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-blue.svg)](https://www.typescriptlang.org/)
+[![Gitter](https://badges.gitter.im/Chatie/wechaty.svg)](https://gitter.im/Chatie/wechaty?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+## Connecting Chatbots
+
+Wechaty is a Conversational AI RPA Chatbot SDK for Wechat **Individual** Account which can help you create a bot in 6 lines of [JavaScript](https://GitHub.com/Wechaty/wechaty), [Python](https://GitHub.com/Wechaty/python-wechaty/), [Go](https://GitHub.com/Wechaty/go-wechaty/), and [Java](https://GitHub.com/Wechaty/java-wechaty/), with cross-platform support including [Linux, Windows, MacOS](https://github.com/wechaty/wechaty/actions?query=workflow%3ANPM), and [Docker](https://github.com/wechaty/wechaty/actions?query=workflow%3ADocker).
+
+:octocat: <https://github.com/Wechaty/wechaty>  
+:beetle: <https://github.com/Wechaty/wechaty/issues>  
+:book: <https://github.com/Wechaty/wechaty/wiki>  
+:whale: <https://hub.docker.com/r/zixia/wechaty>  
+
+## Voice of Developers
+
+> "Wechaty is a great solution, I believe there would be much more users recognize it." [link](https://github.com/Wechaty/wechaty/pull/310#issuecomment-285574472)  
+> &mdash; <cite>@Gcaufy, Tencent Engineer, Author of [WePY](https://github.com/Tencent/wepy)</cite>
+>
+> "太好用，好用的想哭"  
+> &mdash; <cite>@xinbenlv, Google Engineer, Founder of HaoShiYou.org</cite>
+>
+> "最好的微信开发库" [link](http://weibo.com/3296245513/Ec4iNp9Ld?type=comment)  
+> &mdash; <cite>@Jarvis, Baidu Engineer</cite>
+>
+> "Wechaty让运营人员更多的时间思考如何进行活动策划、留存用户，商业变现" [link](http://mp.weixin.qq.com/s/dWHAj8XtiKG-1fIS5Og79g)  
+> &mdash; <cite>@lijiarui, Founder & CEO of Juzi.BOT.</cite>
+>
+> "If you know js ... try Wechaty, it's easy to use."  
+> &mdash; <cite>@Urinx Uri Lee, Author of [WeixinBot(Python)](https://github.com/Urinx/WeixinBot)</cite>
+>
+> "Wechaty is a good project, I hope it can continue! Therefore, I became a contributors in open collective."  
+> &mdash; <cite>[@Simple](https://github.com/mrwhh)</cite>
 
 ## Wechaty 希望实现的新进展及可选项目列表
 Wechaty 希望实现多功能、多语言、多平台三个层次，成为易用度最高、可迁移性最强的聊天机器人框架。   
