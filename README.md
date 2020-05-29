@@ -19,3 +19,5 @@ Wechaty 希望实现多功能、多语言、多平台三个层次，成为易用
 - Wechaty Java 移植组件开发（https://github.com/wechaty/summer-of-code/issues/4）
 ## 多平台（Muti-Plat）
 - 基于开放 API 封装 Wechaty 接口下的企业微信聊天机器人（https://github.com/wechaty/summer-of-code/issues/2）
+- 基于开放 API 封装 Wechaty 接口下的钉钉聊天机器人（https://github.com/wechaty/summer-of-code/issues/11）
+- 基于开放 API 封装 Wechaty 接口下的飞书聊天机器人（https://github.com/wechaty/summer-of-code/issues/12）
