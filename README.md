@@ -1,6 +1,7 @@
 # 开源软件供应链点亮计划-暑期2020
 
-[Wechaty 暑期2020 - 开源软件供应链点亮计划](https://isrc.iscas.ac.cn/summer2020/#/organisations/wechaty)
+- [Wechaty 暑期2020 - 开源软件供应链点亮计划官网](https://isrc.iscas.ac.cn/summer2020/#/organisations/wechaty)
+- [Wechaty Summer of Code Tasks Slides](https://docs.google.com/presentation/d/1ZLH37rQyRgChGqFCUDjA5rbVgBuRkVM4Tys-_ls0gs0/edit?usp=sharing)
 
 ## 开源软件供应链点亮计划-暑期2020”是什么？
 “开源软件供应链点亮计划-暑期2020”（以下简称 暑期2020）是由中科院软件所与 openEuler 社区共同举办的一项面向高校学生的暑期活动，旨在鼓励在校学生积极参与开源软件的开发维护，促进国内优秀开源软件社区的蓬勃发展。
