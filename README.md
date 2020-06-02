@@ -79,19 +79,19 @@ Wechaty 希望实现多平台、多语言、多功能三个层次，成为易用
 
 
 ### 多平台（Muti-Plat）
-- （难度：高）基于开放 API 封装 Wechaty 接口下的企业微信聊天机器人（https://github.com/wechaty/summer-of-code/issues/2）
-- （难度：高）基于开放 API 封装 Wechaty 接口下的钉钉聊天机器人（https://github.com/wechaty/summer-of-code/issues/11）
-- （难度：高）基于开放 API 封装 Wechaty 接口下的飞书聊天机器人（https://github.com/wechaty/summer-of-code/issues/12）
-- （难度：高）基于 RPA 封装 Wechaty 接口下的抖音聊天机器人（https://github.com/wechaty/summer-of-code/issues/13）
-- （难度：高）基于 RPA 封装 Wechaty 接口下的快手聊天机器人（https://github.com/wechaty/summer-of-code/issues/14）
+- （难度：高）基于开放 API 封装 Wechaty 接口下的企业微信聊天机器人 https://github.com/wechaty/summer-of-code/issues/2
+- （难度：高）基于开放 API 封装 Wechaty 接口下的钉钉聊天机器人 https://github.com/wechaty/summer-of-code/issues/11
+- （难度：高）基于开放 API 封装 Wechaty 接口下的飞书聊天机器人 https://github.com/wechaty/summer-of-code/issues/12
+- （难度：高）基于 RPA 封装 Wechaty 接口下的抖音聊天机器人 https://github.com/wechaty/summer-of-code/issues/13
+- （难度：高）基于 RPA 封装 Wechaty 接口下的快手聊天机器人 https://github.com/wechaty/summer-of-code/issues/14
 ### 多语言（Muti-Lang）
-- （难度：中）为 go-wechaty 设计实现 插件体系（https://github.com/wechaty/summer-of-code/issues/9）
-- （难度：中）Go-wechaty Github Action optimization（https://github.com/wechaty/summer-of-code/issues/8）
-- （难度：低）Wechaty Java 移植组件开发（https://github.com/wechaty/summer-of-code/issues/4）
+- （难度：中）为 go-wechaty 设计实现 插件体系 https://github.com/wechaty/summer-of-code/issues/9
+- （难度：中）Go-wechaty Github Action optimization https://github.com/wechaty/summer-of-code/issues/8
+- （难度：低）Wechaty Java 移植组件开发 https://github.com/wechaty/summer-of-code/issues/4
 ### 多功能（Plugin）
-- （难度：中）基于python-wechaty的群聊助手机器人（https://github.com/wechaty/summer-of-code/issues/6）
-- （难度：中）基于Python-wechaty建立一个斗图机器人（https://github.com/wechaty/summer-of-code/issues/7）
-- （难度：低）编写一个“每日一句”插件（https://github.com/wechaty/summer-of-code/issues/10）
+- （难度：中）基于python-wechaty的群聊助手机器人 https://github.com/wechaty/summer-of-code/issues/6
+- （难度：中）基于Python-wechaty建立一个斗图机器人 https://github.com/wechaty/summer-of-code/issues/7
+- （难度：低）编写一个“每日一句”插件 https://github.com/wechaty/summer-of-code/issues/10
 
 
 # 投递要求
