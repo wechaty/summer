@@ -78,13 +78,13 @@ Wechaty 希望实现多平台、多语言、多功能三个层次，成为易用
 多功能是指，在 Wechaty 已经上线的插件系统的基础上，将特定功能按一定形式封装成接口，让其他开发者可以以仅添加短至一行代码的方式，使用原有数百行代码才能完成的功能。    
 
 
-### 多平台（Muti-Plat）
+### 多平台（Multi-Plat）
 - （难度：高）基于开放 API 封装 Wechaty 接口下的企业微信聊天机器人 https://github.com/wechaty/summer-of-code/issues/2
 - （难度：高）基于开放 API 封装 Wechaty 接口下的钉钉聊天机器人 https://github.com/wechaty/summer-of-code/issues/11
 - （难度：高）基于开放 API 封装 Wechaty 接口下的飞书聊天机器人 https://github.com/wechaty/summer-of-code/issues/12
 - （难度：高）基于 RPA 封装 Wechaty 接口下的抖音聊天机器人 https://github.com/wechaty/summer-of-code/issues/13
 - （难度：高）基于 RPA 封装 Wechaty 接口下的快手聊天机器人 https://github.com/wechaty/summer-of-code/issues/14
-### 多语言（Muti-Lang）
+### 多语言（Multi-Lang）
 - （难度：中）为 go-wechaty 设计实现 插件体系 https://github.com/wechaty/summer-of-code/issues/9
 - （难度：中）Go-wechaty Github Action optimization https://github.com/wechaty/summer-of-code/issues/8
 - （难度：低）Wechaty Java 移植组件开发 https://github.com/wechaty/summer-of-code/issues/4
