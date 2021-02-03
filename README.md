@@ -3,11 +3,6 @@
 1. [Google Summer of Code (GSoC)](gsoc/)
 1. [ISCAS Open Source Promotion Plan](ospp/)
 
-## Organization Administrator
-
-- [Huan](https://github.com/huan) [(李卓桓)](http://linkedin.com/in/zixia), Tencent TVP of Chatbot, Creator of Wechaty
-- [Rui (李佳芮)](https://pre-angel.com/peoples/jiarui-li/), Microsoft AI [MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003226)
-
 ## WeChat Room
 
 1. 不同年份的入选同学、未入选同学、社区导师均共用此群。
@@ -17,6 +12,11 @@
 1. 群内由社区工作人员同步活动奖金、提交代码规范、答辩规范等重要信息，并可针对这些问题进行讨论和答疑。
 1. 每年 SoW 继续将其作为核心讨论群，不另外设置新群，旨在让往届校友同学也能参与提出意见或指导开发。
 1. 此群长期存在。
+
+## Organization Administrator
+
+- [Huan](https://github.com/huan) [(李卓桓)](http://linkedin.com/in/zixia), Tencent TVP of Chatbot, Creator of Wechaty
+- [Rui (李佳芮)](https://pre-angel.com/peoples/jiarui-li/), Microsoft AI [MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003226)
 
 ## Copyright & License
 
