@@ -3,6 +3,7 @@
 - [Wechaty 暑期2020 - 开源软件供应链点亮计划官网](https://isrc.iscas.ac.cn/summer2020/#/organisations/wechaty)
 - [Wechaty Summer of Code Tasks Slides](https://docs.google.com/presentation/d/1ZLH37rQyRgChGqFCUDjA5rbVgBuRkVM4Tys-_ls0gs0/edit?usp=sharing)
 - [暑期2020 - 活动宣讲直播方案](https://shimo.im/docs/T9pTD3PRWQKjtwgh/read)
+- [GitHub Milestone](https://github.com/wechaty/summer-of-wechaty/milestone/1)
 
 ## 开源软件供应链点亮计划-暑期2020”是什么
 

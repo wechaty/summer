@@ -8,6 +8,7 @@
 - 官网：<https://summer.iscas.ac.cn/>
 - 启动新闻：<https://mp.weixin.qq.com/s/byA7qIcfmFjKO04O5qraKA>
 - 详细介绍：<https://summer.iscas.ac.cn/help/>
+- [GitHub Milestone](https://github.com/wechaty/summer-of-wechaty/milestone/2)
 
 ## 暑期 2021
 

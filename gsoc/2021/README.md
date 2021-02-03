@@ -1,3 +1,5 @@
 ## Google Summer of Code 2021
 
+- [GitHub Milestone](https://github.com/wechaty/summer-of-wechaty/milestone/3)
+
 TBW
