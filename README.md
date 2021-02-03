@@ -19,7 +19,7 @@ Summer of Wechaty is ... an community event organized by Wechaty organization fo
 ## Organization Administrator
 
 - [Huan](https://github.com/huan) [(李卓桓)](http://linkedin.com/in/zixia), Tencent TVP of Chatbot, Creator of Wechaty
-- [Rui (李佳芮)](https://pre-angel.com/peoples/jiarui-li/), Microsoft AI [MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003226)
+- [Rui (李佳芮)](https://pre-angel.com/peoples/jiarui-li/), Microsoft AI [MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003226), Co-creator of Wechaty
 
 ## Copyright & License
 
