@@ -2,9 +2,9 @@
 
 Summer of Wechaty is ... an community event organized by Wechaty organization for students oss coders, tech writers, mentored by community contributors to join the following summer programs:
 
-1. [Google Summer of Code (GSoC)](gsoc/)
-1. [Google Season of Docs (GSoD)](gsod/)
-1. [ISCAS Open Source Promotion Plan](ospp/)
+1. [Google Summer of Code (GSoC)](google-summer-of-code/)
+1. [Google Season of Docs (GSoD)](google-season-of-docs/)
+1. [ISCAS Open Source Promotion Plan](iscas-open-source-promotion-plan/)
 
 ## WeChat Room
 
