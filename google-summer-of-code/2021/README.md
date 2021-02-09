@@ -2,7 +2,7 @@
 
 Wechaty Organization
 
-- [GitHub Milestone](https://github.com/wechaty/summer-of-wechaty/milestone/3)
+- Google Summer of Code (GSoC) 2021: <https://github.com/wechaty/summer-of-wechaty/milestone/3>
 
 TBW
 
