@@ -12,8 +12,11 @@ Google Summer of Code (GSoc) is a global program focused on bringing more studen
 
 ## Tutorials
 
-- [How to Choose a Google Summer of Code Student](https://youtu.be/KJ9UL6DSsr0)
-- [Being a Great Google Summer of Code Mentor](https://youtu.be/3J_eBuYxcyg)
+- How to Choose a Google Summer of Code Student: <https://youtu.be/KJ9UL6DSsr0>
+- Being a Great Google Summer of Code Mentor: <https://youtu.be/3J_eBuYxcyg>
+- Defining a Project (Ideas List): <https://google.github.io/gsocguides/mentor/defining-a-project-ideas-list>
+- Mentor Responsibilities: <https://developers.google.com/open-source/gsoc/help/responsibilities#mentor_responsibilities>
+    > OSPP 中文版：<https://summer.iscas.ac.cn/help/mentor/>
 
 ## FAQ
 
