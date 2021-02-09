@@ -2,13 +2,18 @@
 
 Google Summer of Code (GSoc) is a global program focused on bringing more student developers into open source software development. Students work with an open source organization on a 10 week programming project during their break from school.
 
-- <https://summerofcode.withgoogle.com/>
+- <https://g.co/gsoc/>
 
 > Previous iterations of Google Summer of Code: <https://developers.google.com/open-source/gsoc/past-summers>
 
 ## Iterations of Summer of Wechaty for GSoC
 
 - [2021](2021/)
+
+## Tutorials
+
+- [How to Choose a Google Summer of Code Student](https://youtu.be/KJ9UL6DSsr0)
+- [Being a Great Google Summer of Code Mentor](https://youtu.be/3J_eBuYxcyg)
 
 ## FAQ
 
