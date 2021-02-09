@@ -16,6 +16,8 @@ Summer of Wechaty is ... an community event organized by Wechaty organization fo
 1. 每年 SoW 继续将其作为核心讨论群，不另外设置新群，旨在让往届校友同学也能参与提出意见或指导开发。
 1. 此群长期存在。
 
+> Drafted by [@rickyyin98](https://github.com/rickyyin98)
+
 ## Organization Administrator
 
 - [Huan](https://github.com/huan) [(李卓桓)](http://linkedin.com/in/zixia), Tencent TVP of Chatbot, Creator of Wechaty
