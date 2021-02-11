@@ -15,3 +15,10 @@ Institute of Software Chinese Academy of Sciences (ISCAS) Open Source Promotion 
 
 1. [2021](2021/)
 1. [2020](2020/)
+
+## Organization Administrator
+
+- [Yuan](https://wechaty.js.org/contributors/windmemory), CTO of Juzi.BOT, Creator of Wechaty Puppet Service [WXWork](https://wechaty.js.org/docs/puppet-services/wxwork)
+- [Bohao](https://wechaty.js.org/contributors/rickyyin98/), CMO of Juzi.BOT
+- [Jing](https://wechaty.js.org/contributors/wj-mcat), Author of [Python Wechaty](https://github.com/wechaty/python-wechaty)
+- [Huan](https://wechaty.js.org/contributors/huan), Tencent TVP of Chatbot, Creator of Wechaty
