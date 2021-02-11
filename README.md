@@ -24,13 +24,6 @@ Any [Wechaty Contributors](https://wechaty.js.org/contributors/) are welcome to 
 
 > Drafted by [@rickyyin98](https://github.com/rickyyin98)
 
-## Organization Administrator
-
-- [Huan](https://github.com/huan), Tencent TVP of Chatbot, Creator of Wechaty
-- [Rui](https://pre-angel.com/peoples/jiarui-li/), Microsoft AI [MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003226), Co-creator of Wechaty
-- [Yuan](https://github.com/windmemory), CTO of Juzi.BOT, Creator of Wechaty Puppet Service [WXWork](https://wechaty.js.org/docs/puppet-services/wxwork)
-- [Jing](https://github.com/wj-Mcat), Author of [Python Wechaty](https://github.com/wechaty/python-wechaty)
-
 ## Copyright & License
 
 - Code & Docs © 2020-now Wechaty Contributors
