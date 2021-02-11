@@ -42,7 +42,7 @@ Wechaty Org 的任何点子，都可以通过发布 Issue 的方法记录累了 
 
 ## Organization Administrator
 
-- [Huan](https://github.com/huan), Tencent TVP of Chatbot, Creator of Wechaty
+- [Jing](https://wechaty.js.org/contributors/wj-mcat), Author of [Python Wechaty](https://github.com/wechaty/python-wechaty)
+- [Huan](https://wechaty.js.org/contributors/huan), Tencent TVP of Chatbot, Creator of Wechaty
+- [Yuan](https://wechaty.js.org/contributors/windmemory), CTO of Juzi.BOT, Creator of Wechaty Puppet Service [WXWork](https://wechaty.js.org/docs/puppet-services/wxwork)
 - [Rui](https://pre-angel.com/peoples/jiarui-li/), Microsoft AI [MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003226), Co-creator of Wechaty
-- [Yuan](https://github.com/windmemory), CTO of Juzi.BOT, Creator of Wechaty Puppet Service [WXWork](https://wechaty.js.org/docs/puppet-services/wxwork)
-- [Jing](https://github.com/wj-Mcat), Author of [Python Wechaty](https://github.com/wechaty/python-wechaty)
