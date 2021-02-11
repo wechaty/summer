@@ -39,3 +39,10 @@ Wechaty Org 的任何点子，都可以通过发布 Issue 的方法记录累了 
 <https://developers.google.com/open-source/gsoc/help/responsibilities#mentor_responsibilities>
 
 > OSPP中国版：<https://summer.iscas.ac.cn/help/mentor/>
+
+## Organization Administrator
+
+- [Huan](https://github.com/huan), Tencent TVP of Chatbot, Creator of Wechaty
+- [Rui](https://pre-angel.com/peoples/jiarui-li/), Microsoft AI [MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003226), Co-creator of Wechaty
+- [Yuan](https://github.com/windmemory), CTO of Juzi.BOT, Creator of Wechaty Puppet Service [WXWork](https://wechaty.js.org/docs/puppet-services/wxwork)
+- [Jing](https://github.com/wj-Mcat), Author of [Python Wechaty](https://github.com/wechaty/python-wechaty)
