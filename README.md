@@ -6,6 +6,12 @@ Summer of Wechaty is ... an community event organized by Wechaty organization fo
 1. [Google Season of Docs (GSoD)](google-season-of-docs/)
 1. [ISCAS Open Source Promotion Plan](iscas-open-source-promotion-plan/)
 
+## Apply Mentor & Publish Projects (Ideas List)
+
+Google Form: <https://forms.gle/RiXWabFfJLi8qErj8>
+
+Any [Wechaty Contributors](https://wechaty.js.org/contributors/) are welcome to apply!
+
 ## WeChat Room
 
 1. 不同年份的入选同学、未入选同学、社区导师均共用此群。
