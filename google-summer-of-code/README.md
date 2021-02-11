@@ -40,7 +40,7 @@ Wechaty Org 的任何点子，都可以通过发布 Issue 的方法记录累了 
 
 > OSPP中国版：<https://summer.iscas.ac.cn/help/mentor/>
 
-## Organization Administrator
+## Organization Administrators
 
 - [Jing](https://wechaty.js.org/contributors/wj-mcat), Author of [Python Wechaty](https://github.com/wechaty/python-wechaty)
 - [Huan](https://wechaty.js.org/contributors/huan), Tencent TVP of Chatbot, Creator of Wechaty
