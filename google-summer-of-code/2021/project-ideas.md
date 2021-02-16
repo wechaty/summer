@@ -259,6 +259,187 @@ This project is about to manage multiple WeChaty bots, to provide unified system
 - **Difficulty Level**: Medium
 
 -----
+
+### [Project: Implement wechaty-storage #49](https://github.com/wechaty/summer-of-wechaty/issues/49)
+
+We want Wechaty to support universal storage, so developers could be able to easily connect Wechaty with their own db. So we would like someone to implement the `wechaty-storage`.
+
+1. Implement `wechaty-storage` with one type of supported persistent storage.
+2. Design the code structure to support future storage extension.
+3. Support data storage configuration, include db, schema, table etc.
+
+- **Potential Mentor(s)**: [@windmemory](https://wechaty.js.org/contributors/windmemory/)
+- **Category**: Fun/Peripheral
+- **Skills Required**: TypeScript programming language, familiar with at least one type of persistent storage, such as MySQL, MongoDB, PostgreSQL etc.
+- **Difficulty Level**: Medium
+
+-----
+
+### [Project: WeChaty cluster management system #48](https://github.com/wechaty/summer-of-wechaty/issues/48)
+
+This project is about to manage multiple WeChaty bots, to provide unified system to control WeChaty clusters. Including following features:
+
+1. Manage bot life cycles: create, start, stop and destroy.
+2. Control bot functionalities, such as sending & receiving messages, processing messages.
+3. Adopt hot reloadable plugins to extend the system easily.
+
+- **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
+- **Category**: Infrastructure/Automation
+- **Skills Required**: TypeScript programming language
+- **Difficulty Level**: Medium
+
+-----
+
+### [Project: WeChaty cluster management system #48](https://github.com/wechaty/summer-of-wechaty/issues/48)
+
+This project is about to manage multiple WeChaty bots, to provide unified system to control WeChaty clusters. Including following features:
+
+1. Manage bot life cycles: create, start, stop and destroy.
+2. Control bot functionalities, such as sending & receiving messages, processing messages.
+3. Adopt hot reloadable plugins to extend the system easily.
+
+- **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
+- **Category**: Infrastructure/Automation
+- **Skills Required**: TypeScript programming language
+- **Difficulty Level**: Medium
+
+-----
+
+### [Project: WeChaty cluster management system #48](https://github.com/wechaty/summer-of-wechaty/issues/48)
+
+This project is about to manage multiple WeChaty bots, to provide unified system to control WeChaty clusters. Including following features:
+
+1. Manage bot life cycles: create, start, stop and destroy.
+2. Control bot functionalities, such as sending & receiving messages, processing messages.
+3. Adopt hot reloadable plugins to extend the system easily.
+
+- **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
+- **Category**: Infrastructure/Automation
+- **Skills Required**: TypeScript programming language
+- **Difficulty Level**: Medium
+
+-----
+
+### [Project: WeChaty cluster management system #48](https://github.com/wechaty/summer-of-wechaty/issues/48)
+
+This project is about to manage multiple WeChaty bots, to provide unified system to control WeChaty clusters. Including following features:
+
+1. Manage bot life cycles: create, start, stop and destroy.
+2. Control bot functionalities, such as sending & receiving messages, processing messages.
+3. Adopt hot reloadable plugins to extend the system easily.
+
+- **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
+- **Category**: Infrastructure/Automation
+- **Skills Required**: TypeScript programming language
+- **Difficulty Level**: Medium
+
+-----
+
+### [Project: WeChaty cluster management system #48](https://github.com/wechaty/summer-of-wechaty/issues/48)
+
+This project is about to manage multiple WeChaty bots, to provide unified system to control WeChaty clusters. Including following features:
+
+1. Manage bot life cycles: create, start, stop and destroy.
+2. Control bot functionalities, such as sending & receiving messages, processing messages.
+3. Adopt hot reloadable plugins to extend the system easily.
+
+- **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
+- **Category**: Infrastructure/Automation
+- **Skills Required**: TypeScript programming language
+- **Difficulty Level**: Medium
+
+-----
+
+### [Project: WeChaty cluster management system #48](https://github.com/wechaty/summer-of-wechaty/issues/48)
+
+This project is about to manage multiple WeChaty bots, to provide unified system to control WeChaty clusters. Including following features:
+
+1. Manage bot life cycles: create, start, stop and destroy.
+2. Control bot functionalities, such as sending & receiving messages, processing messages.
+3. Adopt hot reloadable plugins to extend the system easily.
+
+- **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
+- **Category**: Infrastructure/Automation
+- **Skills Required**: TypeScript programming language
+- **Difficulty Level**: Medium
+
+-----
+
+### [Project: WeChaty cluster management system #48](https://github.com/wechaty/summer-of-wechaty/issues/48)
+
+This project is about to manage multiple WeChaty bots, to provide unified system to control WeChaty clusters. Including following features:
+
+1. Manage bot life cycles: create, start, stop and destroy.
+2. Control bot functionalities, such as sending & receiving messages, processing messages.
+3. Adopt hot reloadable plugins to extend the system easily.
+
+- **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
+- **Category**: Infrastructure/Automation
+- **Skills Required**: TypeScript programming language
+- **Difficulty Level**: Medium
+
+-----
+
+### [Project: WeChaty cluster management system #48](https://github.com/wechaty/summer-of-wechaty/issues/48)
+
+This project is about to manage multiple WeChaty bots, to provide unified system to control WeChaty clusters. Including following features:
+
+1. Manage bot life cycles: create, start, stop and destroy.
+2. Control bot functionalities, such as sending & receiving messages, processing messages.
+3. Adopt hot reloadable plugins to extend the system easily.
+
+- **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
+- **Category**: Infrastructure/Automation
+- **Skills Required**: TypeScript programming language
+- **Difficulty Level**: Medium
+
+-----
+
+### [Project: WeChaty cluster management system #48](https://github.com/wechaty/summer-of-wechaty/issues/48)
+
+This project is about to manage multiple WeChaty bots, to provide unified system to control WeChaty clusters. Including following features:
+
+1. Manage bot life cycles: create, start, stop and destroy.
+2. Control bot functionalities, such as sending & receiving messages, processing messages.
+3. Adopt hot reloadable plugins to extend the system easily.
+
+- **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
+- **Category**: Infrastructure/Automation
+- **Skills Required**: TypeScript programming language
+- **Difficulty Level**: Medium
+
+-----
+
+### [Project: WeChaty cluster management system #48](https://github.com/wechaty/summer-of-wechaty/issues/48)
+
+This project is about to manage multiple WeChaty bots, to provide unified system to control WeChaty clusters. Including following features:
+
+1. Manage bot life cycles: create, start, stop and destroy.
+2. Control bot functionalities, such as sending & receiving messages, processing messages.
+3. Adopt hot reloadable plugins to extend the system easily.
+
+- **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
+- **Category**: Infrastructure/Automation
+- **Skills Required**: TypeScript programming language
+- **Difficulty Level**: Medium
+
+-----
+
+### [Project: WeChaty cluster management system #48](https://github.com/wechaty/summer-of-wechaty/issues/48)
+
+This project is about to manage multiple WeChaty bots, to provide unified system to control WeChaty clusters. Including following features:
+
+1. Manage bot life cycles: create, start, stop and destroy.
+2. Control bot functionalities, such as sending & receiving messages, processing messages.
+3. Adopt hot reloadable plugins to extend the system easily.
+
+- **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
+- **Category**: Infrastructure/Automation
+- **Skills Required**: TypeScript programming language
+- **Difficulty Level**: Medium
+
+-----
+
 ## ONGOING DISCUSSIONS (WISHLIST)
 
 These are proposals in the [Wishlist Repo](https://github.com/wechaty/wishlist/issues) which have not been published as project ideas yet. The feasibility is yet to be defined, and the idea may be dismissed depending on the feedback. Everyone is welcome to participate in the discussion and to join as a potential mentor.
