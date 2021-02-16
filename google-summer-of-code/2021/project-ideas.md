@@ -358,30 +358,36 @@ this type of engine could be used to deliver language learning games over wechat
 
 -----
 
-### [Project: WeChaty cluster management system #48](https://github.com/wechaty/summer-of-wechaty/issues/48)
+### [Project: create "mind map" authoring tool for simple wechaty bots #53](https://github.com/wechaty/summer-of-wechaty/issues/53)
 
-This project is about to manage multiple WeChaty bots, to provide unified system to control WeChaty clusters. Including following features:
+A large number of bots can be very simple decision trees, using some type of regex parser on the responses. But building these bots is still very time consuming.
 
-1. Manage bot life cycles: create, start, stop and destroy.
-2. Control bot functionalities, such as sending & receiving messages, processing messages.
-3. Adopt hot reloadable plugins to extend the system easily.
+We propose using a "mind map" visual editor to create simple bots.
+Many open source libraries exist for editing mind maps
+This tool would then use that map data as a conversation structure for people to interact with bots.
 
-- **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
-- **Category**: Fun/Peripheral
-- **Skills Required**: TypeScript programming language
-- **Difficulty Level**: Medium
+The first version would be purely for text based input and output
+the mind map format could be seen as a simple outliner view:
 
------
+```txt
+- bot: what's your favorite color?
+  - user: blue
+    - bot: the sky is blue!
+  - user: red
+    - bot: red is dynamic
+```
 
-### [Project: WeChaty cluster management system #48](https://github.com/wechaty/summer-of-wechaty/issues/48)
+While this is only useful for simple bots, the ease of use and accessibility for building out quick and simple bots fits the "80:20" pareto principle.
 
-This project is about to manage multiple WeChaty bots, to provide unified system to control WeChaty clusters. Including following features:
+some mindmap tools here: <https://awesomeopensource.com/projects/mindmap>
 
-1. Manage bot life cycles: create, start, stop and destroy.
-2. Control bot functionalities, such as sending & receiving messages, processing messages.
-3. Adopt hot reloadable plugins to extend the system easily.
+So the parts of this project would be:
 
-- **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
+- visual editor (react? vue?)
+- generates structured conversation syntax
+- runtime to accept responses from wechaty adapter, maintain conversation session and reply
+
+- **Potential Mentor(s)**: [David 'DC' Collier](https://wechaty.js.org/contributors/dcsan/)
 - **Category**: Fun/Peripheral
 - **Skills Required**: TypeScript programming language
 - **Difficulty Level**: Medium
