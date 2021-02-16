@@ -136,15 +136,15 @@ Implement **Lark Puppet**. The Puppet abstraction allows Wechaty to provide a co
 
 -----
 
-### [Project: An FAQ for Open source projects #39](https://github.com/wechaty/summer-of-wechaty/issues/39)
+### [Project: Wechaty Rust #40](https://github.com/wechaty/summer-of-wechaty/issues/40)
 
-1. Open source project authors can recommend their projects to the robot, and excellent open source projects will be publicized through the "[KaiYuanShe/开源社](http://www.kaiyuanshe.cn/)".
-2. Open source enthusiasts can ask the bot about open source projects that are suitable for their participation.
-3. This feature can be used as an extension of [OSSChat](https://github.com/kaiyuanshe/osschat).
+Rust is a new programming language with increasing popularity for its performance, memory safety and extensibility with existing systems.
 
-- **Potential Mentor(s)**: [Biaowei ZHUANG](https://wechaty.js.org/contributors/zhuangbiaowei)
-- **Category**: Fun/Peripheral
-- **Skills Required**: TypeScript programming language
+Wechaty will benefit from a Rust Core module that interfaces with its original TypeScript code base for performance boost, and a potential to ship to browser and Native apps by building to binary and webAssembly.
+
+- **Potential Mentor(s)**: [Simon LIANG](https://wechaty.js.org/contributors/lhr0909), [Zihua WU](https://wechaty.js.org/contributors/lucifer1004)
+- **Category**: Core development
+- **Skills Required**: Rust programming language
 - **Difficulty Level**: Medium
 
 -----
