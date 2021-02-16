@@ -123,21 +123,127 @@ Implement **Lark Puppet**. The Puppet abstraction allows Wechaty to provide a co
 
 -----
 
-### [Project: XXX #88](https://github.com/wechaty/summer-of-wechaty/issues/32)
+### [Project: An FAQ for Open source projects #39](https://github.com/wechaty/summer-of-wechaty/issues/39)
 
-Brief descriptions of projects that can be completed in about 10 weeks and requiring about 175 hours of the average student’s time.
+1. Open source project authors can recommend their projects to the robot, and excellent open source projects will be publicized through the "[KaiYuanShe/开源社](http://www.kaiyuanshe.cn/)".
+2. Open source enthusiasts can ask the bot about open source projects that are suitable for their participation.
+3. This feature can be used as an extension of [OSSChat](https://github.com/kaiyuanshe/osschat).
 
-Intro...
-
-1. For each project, a list of prerequisites, description of programming skills needed and estimation of difficulty level.
-
-- **Potential Mentor(s)**: [Huan](https://wechaty.js.org/contributors/huan)
-- **Category**: XXX
-- **Skills Required**:
-- **Difficulty Level**: easy/medium/hard
+- **Potential Mentor(s)**: [Biaowei ZHUANG](https://wechaty.js.org/contributors/zhuangbiaowei)
+- **Category**: Fun/Peripheral
+- **Skills Required**: TypeScript programming language
+- **Difficulty Level**: Medium
 
 -----
 
+### [Project: An FAQ for Open source projects #39](https://github.com/wechaty/summer-of-wechaty/issues/39)
+
+1. Open source project authors can recommend their projects to the robot, and excellent open source projects will be publicized through the "[KaiYuanShe/开源社](http://www.kaiyuanshe.cn/)".
+2. Open source enthusiasts can ask the bot about open source projects that are suitable for their participation.
+3. This feature can be used as an extension of [OSSChat](https://github.com/kaiyuanshe/osschat).
+
+- **Potential Mentor(s)**: [Biaowei ZHUANG](https://wechaty.js.org/contributors/zhuangbiaowei)
+- **Category**: Fun/Peripheral
+- **Skills Required**: TypeScript programming language
+- **Difficulty Level**: Medium
+
+-----
+### [Project: An FAQ for Open source projects #39](https://github.com/wechaty/summer-of-wechaty/issues/39)
+
+1. Open source project authors can recommend their projects to the robot, and excellent open source projects will be publicized through the "[KaiYuanShe/开源社](http://www.kaiyuanshe.cn/)".
+2. Open source enthusiasts can ask the bot about open source projects that are suitable for their participation.
+3. This feature can be used as an extension of [OSSChat](https://github.com/kaiyuanshe/osschat).
+
+- **Potential Mentor(s)**: [Biaowei ZHUANG](https://wechaty.js.org/contributors/zhuangbiaowei)
+- **Category**: Fun/Peripheral
+- **Skills Required**: TypeScript programming language
+- **Difficulty Level**: Medium
+
+-----
+### [Project: An FAQ for Open source projects #39](https://github.com/wechaty/summer-of-wechaty/issues/39)
+
+1. Open source project authors can recommend their projects to the robot, and excellent open source projects will be publicized through the "[KaiYuanShe/开源社](http://www.kaiyuanshe.cn/)".
+2. Open source enthusiasts can ask the bot about open source projects that are suitable for their participation.
+3. This feature can be used as an extension of [OSSChat](https://github.com/kaiyuanshe/osschat).
+
+- **Potential Mentor(s)**: [Biaowei ZHUANG](https://wechaty.js.org/contributors/zhuangbiaowei)
+- **Category**: Fun/Peripheral
+- **Skills Required**: TypeScript programming language
+- **Difficulty Level**: Medium
+
+-----
+### [Project: An FAQ for Open source projects #39](https://github.com/wechaty/summer-of-wechaty/issues/39)
+
+1. Open source project authors can recommend their projects to the robot, and excellent open source projects will be publicized through the "[KaiYuanShe/开源社](http://www.kaiyuanshe.cn/)".
+2. Open source enthusiasts can ask the bot about open source projects that are suitable for their participation.
+3. This feature can be used as an extension of [OSSChat](https://github.com/kaiyuanshe/osschat).
+
+- **Potential Mentor(s)**: [Biaowei ZHUANG](https://wechaty.js.org/contributors/zhuangbiaowei)
+- **Category**: Fun/Peripheral
+- **Skills Required**: TypeScript programming language
+- **Difficulty Level**: Medium
+
+-----
+### [Project: An FAQ for Open source projects #39](https://github.com/wechaty/summer-of-wechaty/issues/39)
+
+1. Open source project authors can recommend their projects to the robot, and excellent open source projects will be publicized through the "[KaiYuanShe/开源社](http://www.kaiyuanshe.cn/)".
+2. Open source enthusiasts can ask the bot about open source projects that are suitable for their participation.
+3. This feature can be used as an extension of [OSSChat](https://github.com/kaiyuanshe/osschat).
+
+- **Potential Mentor(s)**: [Biaowei ZHUANG](https://wechaty.js.org/contributors/zhuangbiaowei)
+- **Category**: Fun/Peripheral
+- **Skills Required**: TypeScript programming language
+- **Difficulty Level**: Medium
+
+-----
+### [Project: An FAQ for Open source projects #39](https://github.com/wechaty/summer-of-wechaty/issues/39)
+
+1. Open source project authors can recommend their projects to the robot, and excellent open source projects will be publicized through the "[KaiYuanShe/开源社](http://www.kaiyuanshe.cn/)".
+2. Open source enthusiasts can ask the bot about open source projects that are suitable for their participation.
+3. This feature can be used as an extension of [OSSChat](https://github.com/kaiyuanshe/osschat).
+
+- **Potential Mentor(s)**: [Biaowei ZHUANG](https://wechaty.js.org/contributors/zhuangbiaowei)
+- **Category**: Fun/Peripheral
+- **Skills Required**: TypeScript programming language
+- **Difficulty Level**: Medium
+
+-----
+### [Project: An FAQ for Open source projects #39](https://github.com/wechaty/summer-of-wechaty/issues/39)
+
+1. Open source project authors can recommend their projects to the robot, and excellent open source projects will be publicized through the "[KaiYuanShe/开源社](http://www.kaiyuanshe.cn/)".
+2. Open source enthusiasts can ask the bot about open source projects that are suitable for their participation.
+3. This feature can be used as an extension of [OSSChat](https://github.com/kaiyuanshe/osschat).
+
+- **Potential Mentor(s)**: [Biaowei ZHUANG](https://wechaty.js.org/contributors/zhuangbiaowei)
+- **Category**: Fun/Peripheral
+- **Skills Required**: TypeScript programming language
+- **Difficulty Level**: Medium
+
+-----
+### [Project: An FAQ for Open source projects #39](https://github.com/wechaty/summer-of-wechaty/issues/39)
+
+1. Open source project authors can recommend their projects to the robot, and excellent open source projects will be publicized through the "[KaiYuanShe/开源社](http://www.kaiyuanshe.cn/)".
+2. Open source enthusiasts can ask the bot about open source projects that are suitable for their participation.
+3. This feature can be used as an extension of [OSSChat](https://github.com/kaiyuanshe/osschat).
+
+- **Potential Mentor(s)**: [Biaowei ZHUANG](https://wechaty.js.org/contributors/zhuangbiaowei)
+- **Category**: Fun/Peripheral
+- **Skills Required**: TypeScript programming language
+- **Difficulty Level**: Medium
+
+-----
+### [Project: An FAQ for Open source projects #39](https://github.com/wechaty/summer-of-wechaty/issues/39)
+
+1. Open source project authors can recommend their projects to the robot, and excellent open source projects will be publicized through the "[KaiYuanShe/开源社](http://www.kaiyuanshe.cn/)".
+2. Open source enthusiasts can ask the bot about open source projects that are suitable for their participation.
+3. This feature can be used as an extension of [OSSChat](https://github.com/kaiyuanshe/osschat).
+
+- **Potential Mentor(s)**: [Biaowei ZHUANG](https://wechaty.js.org/contributors/zhuangbiaowei)
+- **Category**: Fun/Peripheral
+- **Skills Required**: TypeScript programming language
+- **Difficulty Level**: Medium
+
+-----
 ## ONGOING DISCUSSIONS (WISHLIST)
 
 These are proposals in the [Wishlist Repo](https://github.com/wechaty/wishlist/issues) which have not been published as project ideas yet. The feasibility is yet to be defined, and the idea may be dismissed depending on the feedback. Everyone is welcome to participate in the discussion and to join as a potential mentor.
