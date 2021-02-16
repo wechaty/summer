@@ -148,18 +148,20 @@ Wechaty will benefit from a Rust Core module that interfaces with its original T
 - **Difficulty Level**: Medium
 
 -----
-### [Project: An FAQ for Open source projects #39](https://github.com/wechaty/summer-of-wechaty/issues/39)
 
-1. Open source project authors can recommend their projects to the robot, and excellent open source projects will be publicized through the "[KaiYuanShe/开源社](http://www.kaiyuanshe.cn/)".
-2. Open source enthusiasts can ask the bot about open source projects that are suitable for their participation.
-3. This feature can be used as an extension of [OSSChat](https://github.com/kaiyuanshe/osschat).
+### [Project: Automatically label and classify according to the input text or link #41](https://github.com/wechaty/summer-of-wechaty/issues/41)
 
-- **Potential Mentor(s)**: [Biaowei ZHUANG](https://wechaty.js.org/contributors/zhuangbiaowei)
+We want to make a Wechaty plugin to automatically label and classify based on content. It can help us to classify the chat content so that we can inquire later.
+
+We hope that the content of the conversation can be stored persistently. It is best to have a visual panel to manage the content under different tabs.
+
+- **Potential Mentor(s)**: [@Leo chen](https://wechaty.js.org/contributors/gengchen528/)
 - **Category**: Fun/Peripheral
-- **Skills Required**: TypeScript programming language
+- **Skills Required**: JavaScript,Node, Python, programming language, PyTorch
 - **Difficulty Level**: Medium
 
 -----
+
 ### [Project: An FAQ for Open source projects #39](https://github.com/wechaty/summer-of-wechaty/issues/39)
 
 1. Open source project authors can recommend their projects to the robot, and excellent open source projects will be publicized through the "[KaiYuanShe/开源社](http://www.kaiyuanshe.cn/)".
