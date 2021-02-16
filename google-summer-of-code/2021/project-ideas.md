@@ -275,16 +275,24 @@ We want Wechaty to support universal storage, so developers could be able to eas
 
 -----
 
-### [Project: WeChaty cluster management system #48](https://github.com/wechaty/summer-of-wechaty/issues/48)
+### [Project: path analysis of conversation graphs #50](https://github.com/wechaty/summer-of-wechaty/issues/50)
 
-This project is about to manage multiple WeChaty bots, to provide unified system to control WeChaty clusters. Including following features:
+for improving the quality of chatbots it would be great to have some analysis of conversation logs. basically plotting "routes" through the conversation.
 
-1. Manage bot life cycles: create, start, stop and destroy.
-2. Control bot functionalities, such as sending & receiving messages, processing messages.
-3. Adopt hot reloadable plugins to extend the system easily.
+this really needs to be connected to backend NLP, so that we can reduce down the inputs to common intents. otherwise there are just too many individual variations of patterns
 
-- **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
-- **Category**: Infrastructure/Automation
+so the proposal would be to see some type of "path analysis" of a conversation graph ideally we could plot this against the ideal path for comparison
+
+if we were to use a graph database to store the conversations perhaps we could do deeper analysis for things like the "optimum route" between two nodes. or visualizing the paths for an easier way to understand them.
+
+I have a couple of projects here that were early tests in this direction that I can share the repos of. they aren't really using graph analysis yet they are more plotting conversations as visual graphs using D3 or Cytoscape. This project would be ideally about taking this to a next level of investigation.
+
+It should be language agnostic - we would be working with tokens of intents and creating conversation graphs that link these intents together
+
+Reference: <https://dc.rik.ai/projects/convoai>
+
+- **Potential Mentor(s)**: [David 'DC' Collier](https://wechaty.js.org/contributors/dcsan/)
+- **Category**: Fun/Peripheral
 - **Skills Required**: TypeScript programming language
 - **Difficulty Level**: Medium
 
@@ -299,7 +307,7 @@ This project is about to manage multiple WeChaty bots, to provide unified system
 3. Adopt hot reloadable plugins to extend the system easily.
 
 - **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
-- **Category**: Infrastructure/Automation
+- **Category**: Fun/Peripheral
 - **Skills Required**: TypeScript programming language
 - **Difficulty Level**: Medium
 
@@ -314,7 +322,7 @@ This project is about to manage multiple WeChaty bots, to provide unified system
 3. Adopt hot reloadable plugins to extend the system easily.
 
 - **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
-- **Category**: Infrastructure/Automation
+- **Category**: Fun/Peripheral
 - **Skills Required**: TypeScript programming language
 - **Difficulty Level**: Medium
 
@@ -329,7 +337,7 @@ This project is about to manage multiple WeChaty bots, to provide unified system
 3. Adopt hot reloadable plugins to extend the system easily.
 
 - **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
-- **Category**: Infrastructure/Automation
+- **Category**: Fun/Peripheral
 - **Skills Required**: TypeScript programming language
 - **Difficulty Level**: Medium
 
@@ -344,7 +352,7 @@ This project is about to manage multiple WeChaty bots, to provide unified system
 3. Adopt hot reloadable plugins to extend the system easily.
 
 - **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
-- **Category**: Infrastructure/Automation
+- **Category**: Fun/Peripheral
 - **Skills Required**: TypeScript programming language
 - **Difficulty Level**: Medium
 
@@ -359,7 +367,7 @@ This project is about to manage multiple WeChaty bots, to provide unified system
 3. Adopt hot reloadable plugins to extend the system easily.
 
 - **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
-- **Category**: Infrastructure/Automation
+- **Category**: Fun/Peripheral
 - **Skills Required**: TypeScript programming language
 - **Difficulty Level**: Medium
 
@@ -374,7 +382,7 @@ This project is about to manage multiple WeChaty bots, to provide unified system
 3. Adopt hot reloadable plugins to extend the system easily.
 
 - **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
-- **Category**: Infrastructure/Automation
+- **Category**: Fun/Peripheral
 - **Skills Required**: TypeScript programming language
 - **Difficulty Level**: Medium
 
@@ -389,7 +397,7 @@ This project is about to manage multiple WeChaty bots, to provide unified system
 3. Adopt hot reloadable plugins to extend the system easily.
 
 - **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
-- **Category**: Infrastructure/Automation
+- **Category**: Fun/Peripheral
 - **Skills Required**: TypeScript programming language
 - **Difficulty Level**: Medium
 
@@ -404,7 +412,7 @@ This project is about to manage multiple WeChaty bots, to provide unified system
 3. Adopt hot reloadable plugins to extend the system easily.
 
 - **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
-- **Category**: Infrastructure/Automation
+- **Category**: Fun/Peripheral
 - **Skills Required**: TypeScript programming language
 - **Difficulty Level**: Medium
 
@@ -419,7 +427,7 @@ This project is about to manage multiple WeChaty bots, to provide unified system
 3. Adopt hot reloadable plugins to extend the system easily.
 
 - **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
-- **Category**: Infrastructure/Automation
+- **Category**: Fun/Peripheral
 - **Skills Required**: TypeScript programming language
 - **Difficulty Level**: Medium
 
@@ -434,7 +442,7 @@ This project is about to manage multiple WeChaty bots, to provide unified system
 3. Adopt hot reloadable plugins to extend the system easily.
 
 - **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
-- **Category**: Infrastructure/Automation
+- **Category**: Fun/Peripheral
 - **Skills Required**: TypeScript programming language
 - **Difficulty Level**: Medium
 
