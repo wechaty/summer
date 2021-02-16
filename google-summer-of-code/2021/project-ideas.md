@@ -174,15 +174,16 @@ With a complete basic API service, visual interface, cli, third-party services, 
 - **Difficulty Level**: Medium
 
 -----
-### [Project: An FAQ for Open source projects #39](https://github.com/wechaty/summer-of-wechaty/issues/39)
 
-1. Open source project authors can recommend their projects to the robot, and excellent open source projects will be publicized through the "[KaiYuanShe/开源社](http://www.kaiyuanshe.cn/)".
-2. Open source enthusiasts can ask the bot about open source projects that are suitable for their participation.
-3. This feature can be used as an extension of [OSSChat](https://github.com/kaiyuanshe/osschat).
+### [Project: Implement a group information collector by java wechaty. #43](https://github.com/wechaty/summer-of-wechaty/issues/43)
 
-- **Potential Mentor(s)**: [Biaowei ZHUANG](https://wechaty.js.org/contributors/zhuangbiaowei)
+We run several WeChat discussion groups about back-end technology. There are many valuable discussions every week.
+
+Now those information were collected by person. So I want to design a program to make this process easier.
+
+- **Potential Mentor(s)**: [@diaozxin007](https://wechaty.js.org/contributors/diaozxin007), [@RedMaple1](https://wechaty.js.org/contributors/redmaple1/)
 - **Category**: Fun/Peripheral
-- **Skills Required**: TypeScript programming language
+- **Skills Required**: Java, CSS, HTML, JavaScript
 - **Difficulty Level**: Medium
 
 -----
