@@ -162,15 +162,15 @@ We hope that the content of the conversation can be stored persistently. It is b
 
 -----
 
-### [Project: An FAQ for Open source projects #39](https://github.com/wechaty/summer-of-wechaty/issues/39)
+### [Project: Design a plug-in to provide HTTP API service for go-wechaty #42](https://github.com/wechaty/summer-of-wechaty/issues/42)
 
-1. Open source project authors can recommend their projects to the robot, and excellent open source projects will be publicized through the "[KaiYuanShe/开源社](http://www.kaiyuanshe.cn/)".
-2. Open source enthusiasts can ask the bot about open source projects that are suitable for their participation.
-3. This feature can be used as an extension of [OSSChat](https://github.com/kaiyuanshe/osschat).
+We want to make a go-wechaty plug-in to provide HTTP API service.
 
-- **Potential Mentor(s)**: [Biaowei ZHUANG](https://wechaty.js.org/contributors/zhuangbiaowei)
+With a complete basic API service, visual interface, cli, third-party services, etc. can be made based on the API later.
+
+- **Potential Mentor(s)**: [@SilkageNet](https://github.com/silkagenet)
 - **Category**: Fun/Peripheral
-- **Skills Required**: TypeScript programming language
+- **Skills Required**: JavaScript, Node, Golang
 - **Difficulty Level**: Medium
 
 -----
