@@ -23,13 +23,13 @@ We have the following three lists in this Ideas Page:
 1. **Draft Ideas**: Accepted by the community
 1. **Ongoing Discussions**: Proposed by the community
 
-## Accepted Project Ideas
+## ACCEPTED PROJECT IDEAS
 
 Below you can see the list of project ideas that fully match the Wechaty' project idea standard. The scope of these ideas is well known and we don't normally expect deep changes. All ideas have quick start guidelines and newbie-frienfly issues referenced. We welcome contributors to join the mentor teams, and we invite students to submit project proposal applications in relation to these ideas.
 
 TBD
 
-## Draft Project Ideas
+## DRAFT PROJECT IDEAS
 
 Below you can see draft project ideas, which are currently under review. The scope of such ideas may change during the discussions, but the idea is accepted in principle. You are welcome to comment on the draft and to join the project as a mentor. If you are a student, it is also fine to explore and to apply to the draft project ideas.
 
@@ -60,6 +60,6 @@ Intro...
 
 -----
 
-## Ongoing Discussions (Wishlist)
+## ONGOING DISCUSSIONS (WISHLIST)
 
 These are proposals in the [Wishlist Repo](https://github.com/wechaty/wishlist/issues) which have not been published as project ideas yet. The feasibility is yet to be defined, and the idea may be dismissed depending on the feedback. Everyone is welcome to participate in the discussion and to join as a potential mentor.
