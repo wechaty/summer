@@ -407,17 +407,15 @@ The Slack and Wechat message may be able to sync the messages. So while there is
 
 -----
 
-### [Project: WeChaty cluster management system #48](https://github.com/wechaty/summer-of-wechaty/issues/48)
+### [Project: Implement CLI control wechaty #55](https://github.com/wechaty/summer-of-wechaty/issues/55)
 
-This project is about to manage multiple WeChaty bots, to provide unified system to control WeChaty clusters. Including following features:
+Web GUI is great, but not great enough if we just want to have a terminal while we are doing the implementation testing, If we can have a CLI tool to control the bot and CLI likely GUI to have a display dashboard to relate control(like tmux). That will be great. 
 
-1. Manage bot life cycles: create, start, stop and destroy.
-2. Control bot functionalities, such as sending & receiving messages, processing messages.
-3. Adopt hot reloadable plugins to extend the system easily.
+I believe there is a more open ideas we can integrate. I think this would be a good project for summer
 
-- **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
+- **Potential Mentor(s)**: [William Chen](https://wechaty.js.org/contributors/kis87988/)
 - **Category**: Fun/Peripheral
-- **Skills Required**: TypeScript programming language
+- **Skills Required**: TypeScript programming language, Python, CLI, Linux
 - **Difficulty Level**: Medium
 
 -----
