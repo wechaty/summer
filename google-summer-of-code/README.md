@@ -1,4 +1,6 @@
-## Google Summer of Code
+## Google Summer of Code in Wechaty
+
+![Google Summer of Code in Wechaty](wechaty-gsoc.png)
 
 Google Summer of Code (GSoc) is a global program focused on bringing more student developers into open source software development. Students work with an open source organization on a 10 week programming project during their break from school.
 
@@ -6,17 +8,38 @@ Google Summer of Code (GSoc) is a global program focused on bringing more studen
 
 > Previous iterations of Google Summer of Code: <https://developers.google.com/open-source/gsoc/past-summers>
 
+Wechaty is applying to join GSoC in 2021 as its first time.
+
 ## Iterations of Summer of Wechaty for GSoC
 
 - [2021](2021/)
 
-## Guides
+- HOWTO: Propose a project idea: <proposing-new-project-ideas.md>
+- Mentor Registration: <https://forms.gle/RiXWabFfJLi8qErj8>
 
-- How to Choose a Google Summer of Code Student: <https://youtu.be/KJ9UL6DSsr0>
-- Being a Great Google Summer of Code Mentor: <https://youtu.be/3J_eBuYxcyg>
-- Defining a Project (Ideas List): <https://google.github.io/gsocguides/mentor/defining-a-project-ideas-list>
+## For Mentors
+
+- GSoC Mentor Guide: <https://google.github.io/gsocguides/mentor/>
+- Mentor Participant Agreement: <https://summerofcode.withgoogle.com/terms/mentor>
 - Mentor Responsibilities: <https://developers.google.com/open-source/gsoc/help/responsibilities#mentor_responsibilities>
     > OSPP 中文版：<https://summer.iscas.ac.cn/help/mentor/>
+- Defining a Project (Ideas List): <https://google.github.io/gsocguides/mentor/defining-a-project-ideas-list>
+- How to Choose a Google Summer of Code Student: <https://youtu.be/KJ9UL6DSsr0>
+- Being a Great Google Summer of Code Mentor: <https://youtu.be/3J_eBuYxcyg>
+
+## For Org Admin
+
+- Org Application: <https://google.github.io/gsocguides/mentor/org-application>
+- Making Your Ideas Page: <https://google.github.io/gsocguides/mentor/making-your-ideas-page>
+
+## Other Org Useful Links
+
+- [OpenMRS - Come be a mentor for the Google Summer of Code (GSOC) program!](https://talk.openmrs.org/t/come-be-a-mentor-for-the-google-summer-of-code-gsoc-program/9671)
+- [OpenMRS - GSoC 2021- Guidelines for interested students](https://talk.openmrs.org/t/gsoc-2021-guidelines-for-interested-students/32149)
+- [Jenkins - Google Summer of Code. Information for mentors](https://www.jenkins.io/projects/gsoc/mentors/)
+- [Jenkins - Google Summer of Code. Information for students](https://www.jenkins.io/projects/gsoc/students/)
+- [Jenkins - GSoC 2020 Project Ideas](https://www.jenkins.io/projects/gsoc/2020/project-ideas/)
+- [Jenkins - GSOC2020_LASTNAME_ProposalName](https://docs.google.com/document/d/1dIlPLXfLbFsvcaHFuwmH9_lSCVm9m6-SgNYTNAnSZpY/edit?usp=sharing)
 
 ## FAQ
 
@@ -34,13 +57,7 @@ Wechaty Org 的任何点子，都可以通过发布 Issue 的方法记录累了 
 
 然后，我们每位 Mentor 选出 1-3 个自己认为合适的项目，整理描述后，通过 Wechaty Org 申报给 Google ，并最终发布给同学。可以参考 Matrix 2020年的例子： <https://summerofcode.withgoogle.com/archive/2020/organizations/6400769936326656/>
 
-### Mentor Responsibilities
-
-<https://developers.google.com/open-source/gsoc/help/responsibilities#mentor_responsibilities>
-
-> OSPP中国版：<https://summer.iscas.ac.cn/help/mentor/>
-
-## Organization Administrators
+## Wechaty Organization Administrators
 
 - [Jing](https://wechaty.js.org/contributors/wj-mcat), Author of [Python Wechaty](https://github.com/wechaty/python-wechaty)
 - [Huan](https://wechaty.js.org/contributors/huan), Tencent TVP of Chatbot, Creator of Wechaty

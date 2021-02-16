@@ -29,7 +29,7 @@ Any [Wechaty Contributors](https://wechaty.js.org/contributors/) are welcome to 
 - [Huan](https://wechaty.js.org/contributors/huan), Tencent TVP of Chatbot, Creator of Wechaty
 - [Rui](https://pre-angel.com/peoples/jiarui-li/), Microsoft AI [MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003226), Co-creator of Wechaty
 - [Jing](https://wechaty.js.org/contributors/wj-mcat), Author of [Python Wechaty](https://github.com/wechaty/python-wechaty)
-- [Yuan](https://wechaty.js.org/contributors/windmemory), CTO of Juzi.BOT, Creator of Wechaty Puppet Service [WXWork](https://wechaty.js.org/docs/puppet-services/wxwork)
+- [Yuan](https://wechaty.js.org/contributors/windmemory), CTO of Juzi.BOT, Creator of Wechaty Puppet [WXWork](https://wechaty.js.org/docs/puppet-services/wxwork)
 - [Hao](https://wechaty.js.org/contributors/rickyyin98), CMO of Juzi.BOT
 
 ## Copyright & License

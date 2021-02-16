@@ -1,7 +1,8 @@
-
 ## Organization Application
 
-Complete the Organization Application to let Google administrators know why Wechaty would be a good fit for this year's Google Summer of Code.
+- [Org Application](https://google.github.io/gsocguides/mentor/org-application)
+
+> Complete the Organization Application to let Google administrators know why Wechaty would be a good fit for this year's Google Summer of Code.
 
 ### Why does your org want to participate in Google Summer of Code?
 
