@@ -46,63 +46,56 @@ Enhance Whatsapp Puppet <https://github.com/wechaty/wechaty-puppet-whatsapp>. Th
 
 -----
 
-### [Project: XXX #88](https://github.com/wechaty/summer-of-wechaty/issues/32)
+### [Project: Implement "Twitter" Puppet #33](https://github.com/wechaty/summer-of-wechaty/issues/33)
 
-Brief descriptions of projects that can be completed in about 10 weeks and requiring about 175 hours of the average student’s time.
+We want Wechaty to be the universal instant messaging SDK on all IM platforms for chatbot makers to build their great conversational user interface, so while these are our ideas of what we think would make good projects for the summer, we're eager to hear your ideas and proposals as well.
 
-Intro...
-
-1. For each project, a list of prerequisites, description of programming skills needed and estimation of difficulty level.
+Implement **Twitter Puppet**. The Puppet abstraction allows Wechaty to provide a consisting API on all IM platforms for build a chatbot. We are supporting WeChat, WeCom, Whatsapp already, and we want to support Twitter so that our developers can run their chatbots on Twitter to serve users from Twitter.
 
 - **Potential Mentor(s)**: [Huan](https://wechaty.js.org/contributors/huan)
-- **Category**: XXX
-- **Skills Required**:
-- **Difficulty Level**: easy/medium/hard
+- **Category**: Core development
+- **Skills Required**: TypeScript programming language, Twitter API
+- **Difficulty Level**: Medium
 
 -----
 
-### [Project: XXX #88](https://github.com/wechaty/summer-of-wechaty/issues/32)
+### [Project: Implement "Twilio" Puppet #34](https://github.com/wechaty/summer-of-wechaty/issues/34)
 
-Brief descriptions of projects that can be completed in about 10 weeks and requiring about 175 hours of the average student’s time.
+We want Wechaty to be the universal instant messaging SDK on all IM platforms for chatbot makers to build their great conversational user interface, so while these are our ideas of what we think would make good projects for the summer, we're eager to hear your ideas and proposals as well.
 
-Intro...
-
-1. For each project, a list of prerequisites, description of programming skills needed and estimation of difficulty level.
+Implement **Twilio** Puppet. The Puppet abstraction allows Wechaty to provide a consisting API on all IM platforms for build a chatbot. We are supporting WeChat, WeCom, Whatsapp already, and we want to support Twilio so that our developers can run their chatbots on SMS/MMS to serve users from the phone messaging.
 
 - **Potential Mentor(s)**: [Huan](https://wechaty.js.org/contributors/huan)
-- **Category**: XXX
-- **Skills Required**:
-- **Difficulty Level**: easy/medium/hard
+- **Category**: Core development
+- **Skills Required**: TypeScript programming language, Twilio API
+- **Difficulty Level**: Medium
 
 -----
 
-### [Project: XXX #88](https://github.com/wechaty/summer-of-wechaty/issues/32)
+### [Project: Implement "Teams" Puppet #35](https://github.com/wechaty/summer-of-wechaty/issues/35)
 
-Brief descriptions of projects that can be completed in about 10 weeks and requiring about 175 hours of the average student’s time.
+We want Wechaty to be the universal instant messaging SDK on all IM platforms for chatbot makers to build their great conversational user interface, so while these are our ideas of what we think would make good projects for the summer, we're eager to hear your ideas and proposals as well.
 
-Intro...
+Implement **Teams** Puppet. The Puppet abstraction allows Wechaty to provide a consisting API on all IM platforms for build a chatbot. We are supporting WeChat, WeCom, Whatsapp already, and we want to support Teams so that our developers can run their chatbots on company teams to serve users from the chatting and meeting.
 
-1. For each project, a list of prerequisites, description of programming skills needed and estimation of difficulty level.
-
-- **Potential Mentor(s)**: [Huan](https://wechaty.js.org/contributors/huan)
-- **Category**: XXX
-- **Skills Required**:
-- **Difficulty Level**: easy/medium/hard
+- **Potential Mentor(s)**: [@wj-Mcat](https://wechaty.js.org/contributors/wj-mcat)
+- **Category**: Core development
+- **Skills Required**: TypeScript programming language, Teams Bot API
+- **Difficulty Level**: Medium
 
 -----
 
-### [Project: XXX #88](https://github.com/wechaty/summer-of-wechaty/issues/32)
+### [Project: Implement Wechaty Rasa Plugin #36](https://github.com/wechaty/summer-of-wechaty/issues/36)
 
-Brief descriptions of projects that can be completed in about 10 weeks and requiring about 175 hours of the average student’s time.
+[Rasa](https://github.com/RasaHQ/rasa) is a popular task-oriented dialogue system which can be a pipeline in IM platform. What's more, wechaty is an unifiy conversation AI SDK for chatbot. So Wechaty + Rasa will be the perfect project that developer can easily deploy their chatbot on multi-platforms.  
 
-Intro...
+1. Running Rasa Server. When you run the rasa server, it will expose the message service with http protocol.
+2. Communicating with Rasa Server. This process is a simple work which will send the request to the server and receive the message sending the wechaty end account.
 
-1. For each project, a list of prerequisites, description of programming skills needed and estimation of difficulty level.
-
-- **Potential Mentor(s)**: [Huan](https://wechaty.js.org/contributors/huan)
-- **Category**: XXX
-- **Skills Required**:
-- **Difficulty Level**: easy/medium/hard
+- **Potential Mentor(s)**: [@wj-Mcat](https://wechaty.js.org/contributors/wj-mcat/)
+- **Category**: Core development
+- **Skills Required**: Python programming language, Natural Language Processing, Rasa
+- **Difficulty Level**: Medium
 
 -----
 
