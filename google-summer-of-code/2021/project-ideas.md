@@ -437,17 +437,22 @@ what we want to do is:
 
 -----
 
-### [Project: WeChaty cluster management system #48](https://github.com/wechaty/summer-of-wechaty/issues/48)
+### [Project: Implement Wechaty For Mac #58](https://github.com/wechaty/summer-of-wechaty/issues/58)
 
-This project is about to manage multiple WeChaty bots, to provide unified system to control WeChaty clusters. Including following features:
+Make Wechaty support macOS
 
-1. Manage bot life cycles: create, start, stop and destroy.
-2. Control bot functionalities, such as sending & receiving messages, processing messages.
-3. Adopt hot reloadable plugins to extend the system easily.
+- Which we can do
+  - Hook the Mac wechat message（I've completed the core example）
+  - Enable message sending and receiving to support Wechaty
+  - Messages can be automatically replied, using a more intelligent AI chat robot instead of the current Tencent AI
+- Basic project code
+  - <https://github.com/MustangYM/WeChatExtension-ForMac>
+- Useful Links
+  - <https://github.com/wechaty/wechaty-puppet-macOS>
 
-- **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
-- **Category**: Fun/Peripheral
-- **Skills Required**: TypeScript programming language
+- **Potential Mentor(s)**: [@MustangYM](https://github.com/mustangym)
+- **Category**: Core development
+- **Skills Required**: TypeScript programming language, macOS development
 - **Difficulty Level**: Medium
 
 -----
