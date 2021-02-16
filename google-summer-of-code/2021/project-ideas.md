@@ -298,15 +298,25 @@ Reference: <https://dc.rik.ai/projects/convoai>
 
 -----
 
-### [Project: WeChaty cluster management system #48](https://github.com/wechaty/summer-of-wechaty/issues/48)
+### [Project: reinforcement learning as a method to design conversations #51](https://github.com/wechaty/summer-of-wechaty/issues/51)
 
-This project is about to manage multiple WeChaty bots, to provide unified system to control WeChaty clusters. Including following features:
+We can try to plan a perfect path through a conversation ahead of time, and write out a script for our bots. This is "top down design"
 
-1. Manage bot life cycles: create, start, stop and destroy.
-2. Control bot functionalities, such as sending & receiving messages, processing messages.
-3. Adopt hot reloadable plugins to extend the system easily.
+But often the user will run the conversation in a completely different way. If they were talking to a real human agent, the conversation would flow in a different sequence.
 
-- **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
+Some authoring system such as rasa will start with this approach:
+<https://rasa.com/docs/rasa/writing-stories>
+
+But then try to use annotations of actual conversations to refine the conversation flow.
+However, the current tools on the market really are quite un-unsable for this. RASA stories IMHO qucikly devolve to a huge mess that is impossible to view or reason about.
+
+So this project would be a new start in trying to combine NLU conversation insights from "human in the loop" choices, or post-review of past conversations, with the top-down designed stories. The choices a human makes should affect future conversations in a probabalistic way
+
+a simple prototype exists here, but it is not connected to any kind of NN model
+
+Reference: <https://dc.rik.ai/projects/convoai>
+
+- **Potential Mentor(s)**: [David 'DC' Collier](https://wechaty.js.org/contributors/dcsan/)
 - **Category**: Fun/Peripheral
 - **Skills Required**: TypeScript programming language
 - **Difficulty Level**: Medium
