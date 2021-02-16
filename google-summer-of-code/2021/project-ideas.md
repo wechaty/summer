@@ -457,32 +457,38 @@ Make Wechaty support macOS
 
 -----
 
-### [Project: WeChaty cluster management system #48](https://github.com/wechaty/summer-of-wechaty/issues/48)
+### [Project: Improve matrix-appservice-wechaty user info #59 #60 #61](https://github.com/wechaty/summer-of-wechaty/issues/59)
 
-This project is about to manage multiple WeChaty bots, to provide unified system to control WeChaty clusters. Including following features:
+`matrix-appservice-wechaty` is a WeChat (微信) Matrix AppService for bridging the Matrix user with WeChat user.
 
-1. Manage bot life cycles: create, start, stop and destroy.
-2. Control bot functionalities, such as sending & receiving messages, processing messages.
-3. Adopt hot reloadable plugins to extend the system easily.
+According to [Types of Bridging](https://matrix.org/docs/guides/types-of-bridging), Wechaty Bot in Matrix will create an [Simple Puppeted Bridge](https://matrix.org/docs/guides/types-of-bridging#simple-puppeted-bridge) with [Portal Rooms](https://matrix.org/docs/guides/types-of-bridging#portal-rooms) because we want to bring all conversations from Wechat to Matrix, and let the Matrix user control his account on Wechat.
 
-- **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
+We want to improve this module and make it better, including but not limited to the following new features / fixes:
+
+1. Appservice doesn't show the user name and user avatar in group chat. Now we need to show the correct user name and avatar in group chat. And show the user avatar in the direct message.
+1. Appservice can not send files to wechat users. Now we make appservice send files and pictures to wechat users.
+1. Appservice can not display wechat bbob message directly. We need to convert bbob message to HTML and return it to the matrix server.
+
+- **Potential Mentor(s)**: [Roy](https://wechaty.js.org/contributors/yswtrue/)
 - **Category**: Fun/Peripheral
-- **Skills Required**: TypeScript programming language
+- **Skills Required**: TypeScript programming language, [Matrix] API
 - **Difficulty Level**: Medium
 
 -----
 
-### [Project: WeChaty cluster management system #48](https://github.com/wechaty/summer-of-wechaty/issues/48)
+### [Project: Create a Web Component for a Chat UI for Wechaty #62](https://github.com/wechaty/summer-of-wechaty/issues/62)
 
-This project is about to manage multiple WeChaty bots, to provide unified system to control WeChaty clusters. Including following features:
+Create a Web Component in Angular for a Chat UI for Wechaty.
 
-1. Manage bot life cycles: create, start, stop and destroy.
-2. Control bot functionalities, such as sending & receiving messages, processing messages.
-3. Adopt hot reloadable plugins to extend the system easily.
+Useful Links
 
-- **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
-- **Category**: Fun/Peripheral
-- **Skills Required**: TypeScript programming language
+1. [Fiora](https://fiora.suisuijiang.com/) is an interesting chat application power by socket.io, koa, MongoDB and React. (See: <https://github.com/yinxin630/fiora/issues/185>)
+1. [Aurora IMUI is a general IM UI components library, which does not depend on any specific IM SDK.](https://github.com/jpush/aurora-imui)
+1. [Chatvia - Angular Chat App Template](https://themeforest.net/item/chatvia-angular-chat-app-template/28316331)
+
+- **Potential Mentor(s)**: [@lijiarui](https://wechaty.js.org/contributors/lijiarui/), [Huan](https://wechaty.js.org/contributors/huan)
+- **Category**: Core development
+- **Skills Required**: TypeScript programming language, Angular
 - **Difficulty Level**: Medium
 
 -----
