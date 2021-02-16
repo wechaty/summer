@@ -394,17 +394,15 @@ So the parts of this project would be:
 
 -----
 
-### [Project: WeChaty cluster management system #48](https://github.com/wechaty/summer-of-wechaty/issues/48)
+### [Project: Implement "Slack" Puppet #54](https://github.com/wechaty/summer-of-wechaty/issues/54)
 
-This project is about to manage multiple WeChaty bots, to provide unified system to control WeChaty clusters. Including following features:
+Since the Wechaty is a universal messaging SDK. I believe we can implement this with Slack, but not only on Slack.
 
-1. Manage bot life cycles: create, start, stop and destroy.
-2. Control bot functionalities, such as sending & receiving messages, processing messages.
-3. Adopt hot reloadable plugins to extend the system easily.
+The Slack and Wechat message may be able to sync the messages. So while there is more open idea we can integrate. I think this would be good project for summer
 
-- **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
-- **Category**: Fun/Peripheral
-- **Skills Required**: TypeScript programming language
+- **Potential Mentor(s)**: [William Chen](https://wechaty.js.org/contributors/kis87988/)
+- **Category**: Core development
+- **Skills Required**: TypeScript programming language, Slack API
 - **Difficulty Level**: Medium
 
 -----
