@@ -217,15 +217,15 @@ Design event-driven wrappers to implement plugins for Wechaty's different langua
 
 -----
 
-### [Project: An FAQ for Open source projects #39](https://github.com/wechaty/summer-of-wechaty/issues/39)
+### [Project: Wechat group-society #46](https://github.com/wechaty/summer-of-wechaty/issues/46)
 
-1. Open source project authors can recommend their projects to the robot, and excellent open source projects will be publicized through the "[KaiYuanShe/开源社](http://www.kaiyuanshe.cn/)".
-2. Open source enthusiasts can ask the bot about open source projects that are suitable for their participation.
-3. This feature can be used as an extension of [OSSChat](https://github.com/kaiyuanshe/osschat).
+We would like to invite you to help us create a new way of socializing on wechat where individuals and groups can easily find like-minded people/groups by subscribing to our group-society official account.
 
-- **Potential Mentor(s)**: [Biaowei ZHUANG](https://wechaty.js.org/contributors/zhuangbiaowei)
+We will build up a centralized platform using our powerful [wechaty official account puppet](https://github.com/wechaty/wechaty-puppet-official-account) to allow individual users as well as wechat groups to subscribe to. With group users' permission, we will use our wechaty bot to collect chat messages, and analyze the topics of interest for each group via [topic modeling tools](https://radimrehurek.com/gensim/). The top topics of each group will be used as its 'tag' so that individual users can search for and join the groups of interest. Besides, our wechaty bot can break the boundaries between groups of similar interests by sharing messages across groups.
+
+- **Potential Mentor(s)**: [@MachengShen](http://github.com/machengshen), [Huan](https://wechaty.js.org/contributors/huan)
 - **Category**: Fun/Peripheral
-- **Skills Required**: TypeScript programming language
+- **Skills Required**: TypeScript or Python programming language, Basic understanding of common design patterns and good software engineering habits, (Preferred) Experience with Pytorch/Tensorflow, and basic understanding of machine learning.
 - **Difficulty Level**: Medium
 
 -----
