@@ -203,18 +203,20 @@ For example, if you share this post ([股票股市新手入门指南（完整版
 - **Difficulty Level**: Medium
 
 -----
-### [Project: An FAQ for Open source projects #39](https://github.com/wechaty/summer-of-wechaty/issues/39)
 
-1. Open source project authors can recommend their projects to the robot, and excellent open source projects will be publicized through the "[KaiYuanShe/开源社](http://www.kaiyuanshe.cn/)".
-2. Open source enthusiasts can ask the bot about open source projects that are suitable for their participation.
-3. This feature can be used as an extension of [OSSChat](https://github.com/kaiyuanshe/osschat).
+### [Project: Wechaty HTTP Callback #45](https://github.com/wechaty/summer-of-wechaty/issues/45)
 
-- **Potential Mentor(s)**: [Biaowei ZHUANG](https://wechaty.js.org/contributors/zhuangbiaowei)
+HTTP callbacks via the Wechaty plugin, which opens all events via HTTP.
+
+Design event-driven wrappers to implement plugins for Wechaty's different language frameworks.
+
+- **Potential Mentor(s)**: [Xiaoyu DING](https://github.com/dingdayu)
 - **Category**: Fun/Peripheral
-- **Skills Required**: TypeScript programming language
+- **Skills Required**: RESTful API, Python, Golang, HTTP
 - **Difficulty Level**: Medium
 
 -----
+
 ### [Project: An FAQ for Open source projects #39](https://github.com/wechaty/summer-of-wechaty/issues/39)
 
 1. Open source project authors can recommend their projects to the robot, and excellent open source projects will be publicized through the "[KaiYuanShe/开源社](http://www.kaiyuanshe.cn/)".
