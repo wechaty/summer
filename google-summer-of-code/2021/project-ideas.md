@@ -187,15 +187,19 @@ Now those information were collected by person. So I want to design a program to
 - **Difficulty Level**: Medium
 
 -----
-### [Project: An FAQ for Open source projects #39](https://github.com/wechaty/summer-of-wechaty/issues/39)
 
-1. Open source project authors can recommend their projects to the robot, and excellent open source projects will be publicized through the "[KaiYuanShe/开源社](http://www.kaiyuanshe.cn/)".
-2. Open source enthusiasts can ask the bot about open source projects that are suitable for their participation.
-3. This feature can be used as an extension of [OSSChat](https://github.com/kaiyuanshe/osschat).
+### [Project: Develop a WeChat chatbot for building simple personal knowledge base #44](https://github.com/wechaty/summer-of-wechaty/issues/44)
 
-- **Potential Mentor(s)**: [Biaowei ZHUANG](https://wechaty.js.org/contributors/zhuangbiaowei)
+The project goal is to develop a WeChat chatbot which can help build simple personal knowledge base. It should be able to perform two kinds of automated tasks:
+
+- once receiving a post share, save the post title and link to your database
+- once receiving a text message, provide a list of posts related to the text
+
+For example, if you share this post ([股票股市新手入门指南（完整版）](https://zhuanlan.zhihu.com/p/108627613)) to the chatbot from zhihu(知乎) app, it will save this post and notify you of the result. You will receive a list containing this post next time you send the chatbot a text message "股票". Your backend server should be able to calculate the semantic similarity between message texts and posts.
+
+- **Potential Mentor(s)**: [@wade0564](https://wechaty.js.org/contributors/wade0564)
 - **Category**: Fun/Peripheral
-- **Skills Required**: TypeScript programming language
+- **Skills Required**: Java, Database
 - **Difficulty Level**: Medium
 
 -----
