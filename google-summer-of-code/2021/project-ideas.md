@@ -99,18 +99,14 @@ Implement **Teams** Puppet. The Puppet abstraction allows Wechaty to provide a c
 
 -----
 
-### [Project: XXX #88](https://github.com/wechaty/summer-of-wechaty/issues/32)
+### [Project: Automatic video production with a news content #37](https://github.com/wechaty/summer-of-wechaty/issues/37)
 
-Brief descriptions of projects that can be completed in about 10 weeks and requiring about 175 hours of the average student’s time.
+We want to generate short videos, output short videos according to the input text, according to the emotion of the content, or join a virtual anchor.
 
-Intro...
-
-1. For each project, a list of prerequisites, description of programming skills needed and estimation of difficulty level.
-
-- **Potential Mentor(s)**: [Huan](https://wechaty.js.org/contributors/huan)
-- **Category**: XXX
-- **Skills Required**:
-- **Difficulty Level**: easy/medium/hard
+- **Potential Mentor(s)**: [@zhangchunsheng](https://wechaty.js.org/contributors/peterzhang/)
+- **Category**: Fun/Peripheral
+- **Skills Required**: TypeScript, GoLang, Java, Python programming language, TensorFlow, PyTorch
+- **Difficulty Level**: Medium
 
 -----
 
