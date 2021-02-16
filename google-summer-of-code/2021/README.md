@@ -1,5 +1,5 @@
 ## Google Summer of Code in Wechaty 2021
 
-- Project Ideas List: <project-ideas.md>
+- Project Ideas List: <./project-ideas>
 - Google Summer of Code (GSoC) 2021: <https://github.com/wechaty/summer-of-wechaty/milestone/3>
-- Organization Application: <organization-application.md>
+- Organization Application: <./organization-application>
