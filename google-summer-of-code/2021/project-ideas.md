@@ -420,17 +420,19 @@ I believe there is a more open ideas we can integrate. I think this would be a g
 
 -----
 
-### [Project: WeChaty cluster management system #48](https://github.com/wechaty/summer-of-wechaty/issues/48)
+### [Project: Implement Maodou assistant based on conversational AI #56](https://github.com/wechaty/summer-of-wechaty/issues/56)
 
-This project is about to manage multiple WeChaty bots, to provide unified system to control WeChaty clusters. Including following features:
+We want to build an AI-based assistant to access specific course from maodouketang.com.
 
-1. Manage bot life cycles: create, start, stop and destroy.
-2. Control bot functionalities, such as sending & receiving messages, processing messages.
-3. Adopt hot reloadable plugins to extend the system easily.
+what we want to do is:
 
-- **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
+1. send any live course mini-program link to whom has subscribed in wechat
+1. send time alert to parent according to the students who has enrolled a class
+1. conversational-ai based interface to use Maodou assistant
+
+- **Potential Mentor(s)**: [@Ming LI](https://wechaty.js.org/contributors/limingth/)
 - **Category**: Fun/Peripheral
-- **Skills Required**: TypeScript programming language
+- **Skills Required**: TypeScript programming language, NLP
 - **Difficulty Level**: Medium
 
 -----
