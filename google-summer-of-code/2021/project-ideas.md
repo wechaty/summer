@@ -110,18 +110,16 @@ We want to generate short videos, output short videos according to the input tex
 
 -----
 
-### [Project: XXX #88](https://github.com/wechaty/summer-of-wechaty/issues/32)
+### [Project: Improve wechaty-puppet-lark #38](https://github.com/wechaty/summer-of-wechaty/issues/38)
 
-Brief descriptions of projects that can be completed in about 10 weeks and requiring about 175 hours of the average student’s time.
+We want Wechaty to be the universal instant messaging SDK on all IM platforms for chatbot makers to build their great conversational user interface, so while these are our ideas of what we think would make good projects for the summer, we're eager to hear your ideas and proposals as well.
 
-Intro...
+Implement **Lark Puppet**. The Puppet abstraction allows Wechaty to provide a consisting API on all IM platforms for build a chatbot. We are supporting WeChat, WeCom, Whatsapp already, and last year, we completed the initial development of the [Lark Puppet](https://github.com/wechaty/wechaty-puppet-lark). We want to improve this puppet so that our developers can run their chatbots on Lark more conveniently.
 
-1. For each project, a list of prerequisites, description of programming skills needed and estimation of difficulty level.
-
-- **Potential Mentor(s)**: [Huan](https://wechaty.js.org/contributors/huan)
-- **Category**: XXX
-- **Skills Required**:
-- **Difficulty Level**: easy/medium/hard
+- **Potential Mentor(s)**: [Fairy](https://wechaty.js.org/contributors/roxanne718), [Huan](https://wechaty.js.org/contributors/huan)
+- **Category**: Core development
+- **Skills Required**: TypeScript programming language, Lark API
+- **Difficulty Level**: Medium
 
 -----
 
