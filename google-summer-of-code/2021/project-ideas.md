@@ -229,16 +229,19 @@ We will build up a centralized platform using our powerful [wechaty official acc
 - **Difficulty Level**: Medium
 
 -----
-### [Project: An FAQ for Open source projects #39](https://github.com/wechaty/summer-of-wechaty/issues/39)
 
-1. Open source project authors can recommend their projects to the robot, and excellent open source projects will be publicized through the "[KaiYuanShe/开源社](http://www.kaiyuanshe.cn/)".
-2. Open source enthusiasts can ask the bot about open source projects that are suitable for their participation.
-3. This feature can be used as an extension of [OSSChat](https://github.com/kaiyuanshe/osschat).
+### [Project: github webhook transformer/deligator for IM #47](https://github.com/wechaty/summer-of-wechaty/issues/47)
 
-- **Potential Mentor(s)**: [Biaowei ZHUANG](https://wechaty.js.org/contributors/zhuangbiaowei)
+The project's goal is create a github webhooks' transformer, after the transformation, it can make the content of those webhooks more suitable for displayed on the various IMs(wechat, facebook, whatsapp). It would be better to create a deligated hook transform service using Wechaty which can broadcast those webhook events to IM directly.
+
+#### Background
+
+Github has a fantastic and strong webhook system allows you build or set up integrations easily. It can be used to trigger a CI build or update a deploy on production server, it is called workflow automation. And we can not only apply webhooks to automation, if we can easily broadcast these project events (pushes, prs, issues etc.) to various channels(wechat, facebook, whatsapp), it will be very conducive to people to discuss, comment and share. As it happens, Wechaty is one such product with a lot of puppeteers support many IMs which can help people create a chat bot in an easy way.
+
+- **Potential Mentor(s)**: [@iyjian](https://wechaty.js.org/contributors/iyjian/)
 - **Category**: Fun/Peripheral
-- **Skills Required**: TypeScript programming language
-- **Difficulty Level**: Medium
+- **Skills Required**: TypeScript programming language, GitHub API
+- **Difficulty Level**: Easy
 
 -----
 ### [Project: An FAQ for Open source projects #39](https://github.com/wechaty/summer-of-wechaty/issues/39)
