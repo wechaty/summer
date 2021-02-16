@@ -244,14 +244,17 @@ Github has a fantastic and strong webhook system allows you build or set up inte
 - **Difficulty Level**: Easy
 
 -----
-### [Project: An FAQ for Open source projects #39](https://github.com/wechaty/summer-of-wechaty/issues/39)
 
-1. Open source project authors can recommend their projects to the robot, and excellent open source projects will be publicized through the "[KaiYuanShe/开源社](http://www.kaiyuanshe.cn/)".
-2. Open source enthusiasts can ask the bot about open source projects that are suitable for their participation.
-3. This feature can be used as an extension of [OSSChat](https://github.com/kaiyuanshe/osschat).
+### [Project: WeChaty cluster management system #48](https://github.com/wechaty/summer-of-wechaty/issues/48)
 
-- **Potential Mentor(s)**: [Biaowei ZHUANG](https://wechaty.js.org/contributors/zhuangbiaowei)
-- **Category**: Fun/Peripheral
+This project is about to manage multiple WeChaty bots, to provide unified system to control WeChaty clusters. Including following features:
+
+1. Manage bot life cycles: create, start, stop and destroy.
+2. Control bot functionalities, such as sending & receiving messages, processing messages.
+3. Adopt hot reloadable plugins to extend the system easily.
+
+- **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
+- **Category**: Infrastructure/Automation
 - **Skills Required**: TypeScript programming language
 - **Difficulty Level**: Medium
 
