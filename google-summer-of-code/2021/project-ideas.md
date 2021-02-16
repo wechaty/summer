@@ -323,15 +323,35 @@ Reference: <https://dc.rik.ai/projects/convoai>
 
 -----
 
-### [Project: WeChaty cluster management system #48](https://github.com/wechaty/summer-of-wechaty/issues/48)
+### [Project: connect chat adventure game engine to WeChaty #52](https://github.com/wechaty/summer-of-wechaty/issues/52)
 
-This project is about to manage multiple WeChaty bots, to provide unified system to control WeChaty clusters. Including following features:
+I wrote a game engine to deliver story like adventure games in a chat system. It was initially written for slack and Discord.
 
-1. Manage bot life cycles: create, start, stop and destroy.
-2. Control bot functionalities, such as sending & receiving messages, processing messages.
-3. Adopt hot reloadable plugins to extend the system easily.
+It would be interesting to port this to support WeChat. That would allow people to play group "adventure games" in a chat session.
 
-- **Potential Mentor(s)**: [@Padlocal](https://wechaty.js.org/contributors/padlocal/)
+The engine uses a script format to describe the stories <https://github.com/dcsan/storydata>
+
+It has concepts for: rooms, actors, items, and inventory (things uses carry around)
+
+all matching for sentences is done using Regex so we won't have the problems of systems like rivescript which uses a simplified regex pattern that doesn't work well for non-space languages like Chinese (or japanese)
+
+The main runtime engine is all written in typescript.
+
+currently there is a "PAL" class - Platform Abstraction Layer- that already has adapters for Slack and Discord APIs. This project would mainly be to adapt this to wechaty input/output API for delivering games into groups
+
+You can play some of the games built with this on Discord, but this maybe hard inside the GFW. <https://ten.rik.ai/asylum/>
+
+of course discord and slack have many features wechat does not, such as buttons or "clickable emoji reactions" so the adapter would have to deal with things like a "collector" or different ways to present menus. Wechat's main feature is that it's usable inside China.
+
+Eventually we could make a web based editor for adding new stories, that would allow something like "fan fiction" stories to be created.
+
+play BoPO game on discord here (direct link to our server) <https://discord.com/invite/Qgup6qU>
+
+a bit more info/writeup <https://dc.rik.ai/projects/ten>
+
+this type of engine could be used to deliver language learning games over wechat too. that was the original idea for this project: <https://dc.rik.ai/projects/comic-english>
+
+- **Potential Mentor(s)**: [David 'DC' Collier](https://wechaty.js.org/contributors/dcsan/)
 - **Category**: Fun/Peripheral
 - **Skills Required**: TypeScript programming language
 - **Difficulty Level**: Medium
