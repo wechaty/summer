@@ -33,7 +33,7 @@ Below you can see the list of project ideas that fully match the Wechaty' projec
 
 Below you can see draft project ideas, which are currently under review. The scope of such ideas may change during the discussions, but the idea is accepted in principle. You are welcome to comment on the draft and to join the project as a mentor. If you are a student, it is also fine to explore and to apply to the draft project ideas.
 
-### [Project: Enhance Whatsapp Puppet #32](https://github.com/wechaty/summer-of-wechaty/issues/32)
+### [Project #32: Enhance Whatsapp Puppet](https://github.com/wechaty/summer-of-wechaty/issues/32)
 
 We want Wechaty to be the universal instant messaging SDK on all IM platforms for chatbot makers to build their great conversational user interface, so while these are our ideas of what we think would make good projects for the summer, we're eager to hear your ideas and proposals as well.
 
@@ -46,7 +46,7 @@ Enhance Whatsapp Puppet <https://github.com/wechaty/wechaty-puppet-whatsapp>. Th
 
 -----
 
-### [Project: Implement "Twitter" Puppet #33](https://github.com/wechaty/summer-of-wechaty/issues/33)
+### [Project #33: Implement "Twitter" Puppet](https://github.com/wechaty/summer-of-wechaty/issues/33)
 
 We want Wechaty to be the universal instant messaging SDK on all IM platforms for chatbot makers to build their great conversational user interface, so while these are our ideas of what we think would make good projects for the summer, we're eager to hear your ideas and proposals as well.
 
@@ -59,7 +59,7 @@ Implement **Twitter Puppet**. The Puppet abstraction allows Wechaty to provide a
 
 -----
 
-### [Project: Implement "Twilio" Puppet #34](https://github.com/wechaty/summer-of-wechaty/issues/34)
+### [Project #34: Implement "Twilio" Puppet](https://github.com/wechaty/summer-of-wechaty/issues/34)
 
 We want Wechaty to be the universal instant messaging SDK on all IM platforms for chatbot makers to build their great conversational user interface, so while these are our ideas of what we think would make good projects for the summer, we're eager to hear your ideas and proposals as well.
 
@@ -72,7 +72,7 @@ Implement **Twilio** Puppet. The Puppet abstraction allows Wechaty to provide a 
 
 -----
 
-### [Project: Implement "Teams" Puppet #35](https://github.com/wechaty/summer-of-wechaty/issues/35)
+### [Project #35: Implement "Teams" Puppet](https://github.com/wechaty/summer-of-wechaty/issues/35)
 
 We want Wechaty to be the universal instant messaging SDK on all IM platforms for chatbot makers to build their great conversational user interface, so while these are our ideas of what we think would make good projects for the summer, we're eager to hear your ideas and proposals as well.
 
@@ -85,7 +85,7 @@ Implement **Teams** Puppet. The Puppet abstraction allows Wechaty to provide a c
 
 -----
 
-### [Project: Implement Wechaty Rasa Plugin #36](https://github.com/wechaty/summer-of-wechaty/issues/36)
+### [Project #36: Implement Wechaty Rasa Plugin](https://github.com/wechaty/summer-of-wechaty/issues/36)
 
 [Rasa](https://github.com/RasaHQ/rasa) is a popular task-oriented dialogue system which can be a pipeline in IM platform. What's more, wechaty is an unifiy conversation AI SDK for chatbot. So Wechaty + Rasa will be the perfect project that developer can easily deploy their chatbot on multi-platforms.  
 
@@ -99,7 +99,7 @@ Implement **Teams** Puppet. The Puppet abstraction allows Wechaty to provide a c
 
 -----
 
-### [Project: Automatic video production with a news content #37](https://github.com/wechaty/summer-of-wechaty/issues/37)
+### [Project #37: Automatic video production with a news content](https://github.com/wechaty/summer-of-wechaty/issues/37)
 
 We want to generate short videos, output short videos according to the input text, according to the emotion of the content, or join a virtual anchor.
 
@@ -110,7 +110,7 @@ We want to generate short videos, output short videos according to the input tex
 
 -----
 
-### [Project: Improve wechaty-puppet-lark #38](https://github.com/wechaty/summer-of-wechaty/issues/38)
+### [Project #38: Improve wechaty-puppet-lark](https://github.com/wechaty/summer-of-wechaty/issues/38)
 
 We want Wechaty to be the universal instant messaging SDK on all IM platforms for chatbot makers to build their great conversational user interface, so while these are our ideas of what we think would make good projects for the summer, we're eager to hear your ideas and proposals as well.
 
@@ -123,7 +123,7 @@ Implement **Lark Puppet**. The Puppet abstraction allows Wechaty to provide a co
 
 -----
 
-### [Project: An FAQ for Open source projects #39](https://github.com/wechaty/summer-of-wechaty/issues/39)
+### [Project #39: An FAQ for Open source projects](https://github.com/wechaty/summer-of-wechaty/issues/39)
 
 1. Open source project authors can recommend their projects to the robot, and excellent open source projects will be publicized through the "[KaiYuanShe/开源社](http://www.kaiyuanshe.cn/)".
 2. Open source enthusiasts can ask the bot about open source projects that are suitable for their participation.
@@ -136,7 +136,7 @@ Implement **Lark Puppet**. The Puppet abstraction allows Wechaty to provide a co
 
 -----
 
-### [Project: Wechaty Rust #40](https://github.com/wechaty/summer-of-wechaty/issues/40)
+### [Project #40: Wechaty Rust](https://github.com/wechaty/summer-of-wechaty/issues/40)
 
 Rust is a new programming language with increasing popularity for its performance, memory safety and extensibility with existing systems.
 
@@ -149,7 +149,7 @@ Wechaty will benefit from a Rust Core module that interfaces with its original T
 
 -----
 
-### [Project: Automatically label and classify according to the input text or link #41](https://github.com/wechaty/summer-of-wechaty/issues/41)
+### [Project #41: Automatically label and classify according to the input text or link](https://github.com/wechaty/summer-of-wechaty/issues/41)
 
 We want to make a Wechaty plugin to automatically label and classify based on content. It can help us to classify the chat content so that we can inquire later.
 
@@ -162,7 +162,7 @@ We hope that the content of the conversation can be stored persistently. It is b
 
 -----
 
-### [Project: Design a plug-in to provide HTTP API service for go-wechaty #42](https://github.com/wechaty/summer-of-wechaty/issues/42)
+### [Project #42: Design a plug-in to provide HTTP API service for go-wechaty](https://github.com/wechaty/summer-of-wechaty/issues/42)
 
 We want to make a go-wechaty plug-in to provide HTTP API service.
 
@@ -175,7 +175,7 @@ With a complete basic API service, visual interface, cli, third-party services, 
 
 -----
 
-### [Project: Implement a group information collector by java wechaty. #43](https://github.com/wechaty/summer-of-wechaty/issues/43)
+### [Project #43: Implement a group information collector by java wechaty.](https://github.com/wechaty/summer-of-wechaty/issues/43)
 
 We run several WeChat discussion groups about back-end technology. There are many valuable discussions every week.
 
@@ -188,7 +188,7 @@ Now those information were collected by person. So I want to design a program to
 
 -----
 
-### [Project: Develop a WeChat chatbot for building simple personal knowledge base #44](https://github.com/wechaty/summer-of-wechaty/issues/44)
+### [Project #44: Develop a WeChat chatbot for building simple personal knowledge base](https://github.com/wechaty/summer-of-wechaty/issues/44)
 
 The project goal is to develop a WeChat chatbot which can help build simple personal knowledge base. It should be able to perform two kinds of automated tasks:
 
@@ -204,7 +204,7 @@ For example, if you share this post ([股票股市新手入门指南（完整版
 
 -----
 
-### [Project: Wechaty HTTP Callback #45](https://github.com/wechaty/summer-of-wechaty/issues/45)
+### [Project #45: Wechaty HTTP Callback](https://github.com/wechaty/summer-of-wechaty/issues/45)
 
 HTTP callbacks via the Wechaty plugin, which opens all events via HTTP.
 
@@ -217,7 +217,7 @@ Design event-driven wrappers to implement plugins for Wechaty's different langua
 
 -----
 
-### [Project: Wechat group-society #46](https://github.com/wechaty/summer-of-wechaty/issues/46)
+### [Project #46: Wechat group-society](https://github.com/wechaty/summer-of-wechaty/issues/46)
 
 We would like to invite you to help us create a new way of socializing on wechat where individuals and groups can easily find like-minded people/groups by subscribing to our group-society official account.
 
@@ -230,7 +230,7 @@ We will build up a centralized platform using our powerful [wechaty official acc
 
 -----
 
-### [Project: github webhook transformer/deligator for IM #47](https://github.com/wechaty/summer-of-wechaty/issues/47)
+### [Project #47: github webhook transformer/deligator for IM](https://github.com/wechaty/summer-of-wechaty/issues/47)
 
 The project's goal is create a github webhooks' transformer, after the transformation, it can make the content of those webhooks more suitable for displayed on the various IMs(wechat, facebook, whatsapp). It would be better to create a deligated hook transform service using Wechaty which can broadcast those webhook events to IM directly.
 
@@ -245,7 +245,7 @@ Github has a fantastic and strong webhook system allows you build or set up inte
 
 -----
 
-### [Project: WeChaty cluster management system #48](https://github.com/wechaty/summer-of-wechaty/issues/48)
+### [Project #48: WeChaty cluster management system](https://github.com/wechaty/summer-of-wechaty/issues/48)
 
 This project is about to manage multiple WeChaty bots, to provide unified system to control WeChaty clusters. Including following features:
 
@@ -260,7 +260,7 @@ This project is about to manage multiple WeChaty bots, to provide unified system
 
 -----
 
-### [Project: Implement wechaty-storage #49](https://github.com/wechaty/summer-of-wechaty/issues/49)
+### [Project #49: Implement wechaty-storage](https://github.com/wechaty/summer-of-wechaty/issues/49)
 
 We want Wechaty to support universal storage, so developers could be able to easily connect Wechaty with their own db. So we would like someone to implement the `wechaty-storage`.
 
@@ -275,7 +275,7 @@ We want Wechaty to support universal storage, so developers could be able to eas
 
 -----
 
-### [Project: path analysis of conversation graphs #50](https://github.com/wechaty/summer-of-wechaty/issues/50)
+### [Project #50: path analysis of conversation graphs](https://github.com/wechaty/summer-of-wechaty/issues/50)
 
 for improving the quality of chatbots it would be great to have some analysis of conversation logs. basically plotting "routes" through the conversation.
 
@@ -298,7 +298,7 @@ Reference: <https://dc.rik.ai/projects/convoai>
 
 -----
 
-### [Project: reinforcement learning as a method to design conversations #51](https://github.com/wechaty/summer-of-wechaty/issues/51)
+### [Project #51: reinforcement learning as a method to design conversations](https://github.com/wechaty/summer-of-wechaty/issues/51)
 
 We can try to plan a perfect path through a conversation ahead of time, and write out a script for our bots. This is "top down design"
 
@@ -323,7 +323,7 @@ Reference: <https://dc.rik.ai/projects/convoai>
 
 -----
 
-### [Project: connect chat adventure game engine to WeChaty #52](https://github.com/wechaty/summer-of-wechaty/issues/52)
+### [Project #52: connect chat adventure game engine to WeChaty](https://github.com/wechaty/summer-of-wechaty/issues/52)
 
 I wrote a game engine to deliver story like adventure games in a chat system. It was initially written for slack and Discord.
 
@@ -358,7 +358,7 @@ this type of engine could be used to deliver language learning games over wechat
 
 -----
 
-### [Project: create "mind map" authoring tool for simple wechaty bots #53](https://github.com/wechaty/summer-of-wechaty/issues/53)
+### [Project #53: create "mind map" authoring tool for simple wechaty bots](https://github.com/wechaty/summer-of-wechaty/issues/53)
 
 A large number of bots can be very simple decision trees, using some type of regex parser on the responses. But building these bots is still very time consuming.
 
@@ -394,7 +394,7 @@ So the parts of this project would be:
 
 -----
 
-### [Project: Implement "Slack" Puppet #54](https://github.com/wechaty/summer-of-wechaty/issues/54)
+### [Project #54: Implement "Slack" Puppet](https://github.com/wechaty/summer-of-wechaty/issues/54)
 
 Since the Wechaty is a universal messaging SDK. I believe we can implement this with Slack, but not only on Slack.
 
@@ -407,9 +407,9 @@ The Slack and Wechat message may be able to sync the messages. So while there is
 
 -----
 
-### [Project: Implement CLI control wechaty #55](https://github.com/wechaty/summer-of-wechaty/issues/55)
+### [Project #55: Implement CLI control wechaty](https://github.com/wechaty/summer-of-wechaty/issues/55)
 
-Web GUI is great, but not great enough if we just want to have a terminal while we are doing the implementation testing, If we can have a CLI tool to control the bot and CLI likely GUI to have a display dashboard to relate control(like tmux). That will be great. 
+Web GUI is great, but not great enough if we just want to have a terminal while we are doing the implementation testing, If we can have a CLI tool to control the bot and CLI likely GUI to have a display dashboard to relate control(like tmux). That will be great.
 
 I believe there is a more open ideas we can integrate. I think this would be a good project for summer
 
@@ -420,7 +420,7 @@ I believe there is a more open ideas we can integrate. I think this would be a g
 
 -----
 
-### [Project: Implement Maodou assistant based on conversational AI #56](https://github.com/wechaty/summer-of-wechaty/issues/56)
+### [Project #56: Implement Maodou assistant based on conversational AI](https://github.com/wechaty/summer-of-wechaty/issues/56)
 
 We want to build an AI-based assistant to access specific course from maodouketang.com.
 
@@ -437,7 +437,7 @@ what we want to do is:
 
 -----
 
-### [Project: Implement Wechaty For Mac #58](https://github.com/wechaty/summer-of-wechaty/issues/58)
+### [Project #58: Implement Wechaty For Mac](https://github.com/wechaty/summer-of-wechaty/issues/58)
 
 Make Wechaty support macOS
 
@@ -457,7 +457,7 @@ Make Wechaty support macOS
 
 -----
 
-### [Project: Improve matrix-appservice-wechaty user info #59 #60 #61](https://github.com/wechaty/summer-of-wechaty/issues/59)
+### [Project #59: Improve matrix-appservice-wechaty user info](https://github.com/wechaty/summer-of-wechaty/issues/59)
 
 `matrix-appservice-wechaty` is a WeChat (微信) Matrix AppService for bridging the Matrix user with WeChat user.
 
@@ -476,7 +476,7 @@ We want to improve this module and make it better, including but not limited to 
 
 -----
 
-### [Project: Create a Web Component for a Chat UI for Wechaty #62](https://github.com/wechaty/summer-of-wechaty/issues/62)
+### [Project #62: Create a Web Component for a Chat UI for Wechaty](https://github.com/wechaty/summer-of-wechaty/issues/62)
 
 Create a Web Component in Angular for a Chat UI for Wechaty.
 
