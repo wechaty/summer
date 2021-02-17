@@ -25,3 +25,22 @@
 ### Where does your source code live?
 
 ### Is your organization part of any government?
+
+## Public Profile
+
+### Tagline
+
+Conversational RPA SDK for building WeChat/Whatsapp chatbots in 6 lines of code.
+
+### Short description
+
+Wechaty is a Conversational RPA SDK for chatbot makers that can create a bot in 6 lines of code with the most popular IMs like WeChat, Whatsapp, WeCom, Gitter, etc.
+
+### Why Wechaty?
+
+Chatbot applications streamline interactions between people and services, enhancing customer experience. At the same time, they offer companies new opportunities to improve the customer engagement process and operational efficiency by reducing the typical cost of customer service.
+
+### Chatbot SDK
+
+Wechaty is a Conversational RPA (Robotic Process Automation) SDK for Chatbot Makers which can create a bot in 6 lines of JavaScript, Python, Go, Java, .NET, PHP, and Scala, with cross-platform support including Linux, Windows, macOS, and Docker, on top of the most popular IMs like WeChat, Whatsapp, WeCom, Gitter, etc.
+
