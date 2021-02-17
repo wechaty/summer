@@ -110,7 +110,7 @@ Wechaty 希望实现多平台、多语言、多功能三个层次，成为易用
 1. 联系社区（2020年5月15日至6月20日）
 扫描二维码添加 Wechaty 社区官方机器人 Friday BOT
 
-    ![Friday BOT](https://camo.githubusercontent.com/48e830f95ba1e018c365013991e685951b8cf5f4/68747470733a2f2f776563686174792e6769746875622e696f2f776563686174792f696d616765732f626f742d71722d636f64652e706e67)  
+    ![Friday BOT](https://https://wechaty.js.org/img/friday-qrcode.svg)  
 
     确定认领项目后，由社区官方机器人拉群，开始任务推进。
 
