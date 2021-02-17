@@ -19,7 +19,7 @@ Any [Wechaty Contributors](https://wechaty.js.org/contributors/) are welcome to 
 1. 所有社区活动、沙龙分享等信息均在此群内向同学们同步。
 1. 后续SoC相关Issue和PR将会由OSS BOT转发到群中。
 1. 群内由社区工作人员同步活动奖金、提交代码规范、答辩规范等重要信息，并可针对这些问题进行讨论和答疑。
-1. 每年 SoW 继续将其作为核心讨论群，不另外设置新群，旨在让往届校友同学也能参与提出意见或指导开发。
+1. 每年 Summer of Wechaty 活动继续将其作为核心讨论群，不另外设置新群，旨在让往届校友同学也能参与提出意见或指导开发。
 1. 此群长期存在。
 
 > Drafted by [@rickyyin98](https://github.com/rickyyin98)
