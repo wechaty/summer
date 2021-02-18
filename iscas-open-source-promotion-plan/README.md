@@ -23,3 +23,5 @@ Institute of Software Chinese Academy of Sciences (ISCAS) Open Source Promotion 
 - [Jing](https://wechaty.js.org/contributors/wj-mcat), Author of [Python Wechaty](https://github.com/wechaty/python-wechaty)
 - [Huan](https://wechaty.js.org/contributors/huan), Tencent TVP of Chatbot, Creator of Wechaty
 - [Zilin](https://wechaty.js.org/contributors/godkillerxiao), Undergraduate of Sichuan University, Author of [Wechaty-Meme-Bot](https://github.com/MrZilinXiao/python-wechaty-meme-bot)
+- [Fairy](https://github.com/Roxanne718), Author of [Lark Puppet](https://github.com/wechaty/wechaty-puppet-lark)
+- 
