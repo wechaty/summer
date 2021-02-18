@@ -24,6 +24,10 @@ Any [Wechaty Contributors](https://wechaty.js.org/contributors/) are welcome to 
 
 > Drafted by [@rickyyin98](https://github.com/rickyyin98)
 
+## Contact us
+
+You can [join our Gitter](https://gitter.im/wechaty/wechaty) network if you aren’t already a member
+
 ## Organization Administrators
 
 - [Huan](https://wechaty.js.org/contributors/huan), Tencent TVP of Chatbot, Creator of Wechaty
