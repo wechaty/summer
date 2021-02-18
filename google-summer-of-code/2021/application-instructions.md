@@ -1,6 +1,6 @@
 ## Prerequisites
 
-1. Read [Microsoft MVP Blog: Six Lines Of Code. Two MVPs. One Chatbot.](https://wechaty.js.org/2020/11/10/six-lines-code-two-ai-mvps-one-chatbot/)
+1. Read [Six Lines Of Code. Two MVPs. One Chatbot.](https://wechaty.js.org/2020/11/10/six-lines-code-two-ai-mvps-one-chatbot/)
 1. [Get started with Wechaty](https://wechaty.js.org/2021/02/06/wechaty-getting-started-without-leave-your-browser/)
 1. [Join our Gitter Channel](https://gitter.im/wechaty/wechaty)
 1. [Run Wechaty with Whatsapp](https://wechaty.js.org/2021/02/15/publishment-of-wechaty-whatapp-puppet/)
