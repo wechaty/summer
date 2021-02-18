@@ -78,11 +78,20 @@ Wechaty is a Conversational RPA (Robotic Process Automation) SDK for Chatbot Mak
 
 ### Application Instructions
 
-TBA
+[Application Instructions](application-instructions.md)
 
 ### Proposal Tags
 
-TBA
+- puppet
+- machine-learning
+- rust
+- restful-api
+- cli
+- angular
+- assistant
+- database
+- conversational-user-interface
+- gaming
 
 ## Contact Methods
 
