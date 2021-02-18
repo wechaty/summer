@@ -14,7 +14,9 @@ Wechaty is applying to join GSoC in 2021 as its first time.
 
 - [2021](2021/)
 
-- HOWTO: Propose a project idea: <proposing-new-project-ideas.md>
+### Useful links
+
+- HOWTO: Propose a project idea: [proposing-new-project-ideas.md](proposing-new-project-ideas.md)
 - Mentor Registration: <https://forms.gle/RiXWabFfJLi8qErj8>
 
 ## For Mentors
