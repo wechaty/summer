@@ -12,6 +12,10 @@ Google Form: <https://forms.gle/RiXWabFfJLi8qErj8>
 
 Any [Wechaty Contributors](https://wechaty.js.org/contributors/) are welcome to apply!
 
+## Select Students
+
+- Google Summer of Code Guides - Selecting a Student - https://google.github.io/gsocguides/mentor/selecting-a-student
+
 ## WeChat Room
 
 1. 不同年份的入选同学、未入选同学、社区导师均共用此群。
