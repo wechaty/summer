@@ -14,8 +14,9 @@ Any [Wechaty Contributors](https://wechaty.js.org/contributors/) are welcome to 
 
 ## Select Students
 
-- Google Summer of Code Guides - Selecting a Student - https://google.github.io/gsocguides/mentor/selecting-a-student
-
+- Google Summer of Code Guides - Selecting a Student - <https://google.github.io/gsocguides/mentor/selecting-a-student>
+- Tips for finding the “right” GSoC student for your org - <https://docs.google.com/document/d/1HrCuijYNfDZGaQ9Eyp0HQ6iXuELRmDSimrSkrJRtwug>
+- 
 ## WeChat Room
 
 1. 不同年份的入选同学、未入选同学、社区导师均共用此群。
