@@ -9,10 +9,10 @@
 ## 报名信息摘要
 
 - 社区或开源项目名称：Wechaty
-- 社区官网网址: [https://wechaty.js.org](https://wechaty.js.org)
-- 联系人：范蕊
+- 社区官方网址：<https://wechaty.js.org/>
+- 联系人：吴京京
 - 联系方式：
-  - 邮箱：froxanne1024@gmail.com
+  - 邮箱：wjmcater@gmail.com
 
 ## 社区基本信息
 
@@ -38,45 +38,75 @@
      - 自动处理好友请求
      - 智能对话：通过简单配置，即可加入智能对话系统，完成指定任务
 
-7. 社区邮件列表（用于帮助学生了解社区，一般为开发者邮箱列表）： 
+6. 社区邮件列表（用于帮助学生了解社区，一般为开发者邮箱列表）： 
 
     <wechaty@googlegroups.com>
 
     Gitter: <https://gitter.im/wechaty/wechaty>
     
-9. 社区官方公共联系邮箱：wechaty@chatie.io
-10. 技术标签：Conversational, AI, RPA, NLP, TypeScript, Docker, DevOps, Node.js
-11. 专注领域：Chatbot, Conversational AI, NLP
-12. 社区维护的开源项目
+7. 社区官方公共联系邮箱：wechaty@chatie.io
+8. 技术标签：Conversational, AI, RPA, NLP, TypeScript, Python, MachineLearning, DeepLearning, Docker, DevOps, Node.js
+9. 专注领域：Chatbot, Conversational AI, NLP
+10. 社区维护的开源项目
 
     - 项目名称：wechaty
-      项目仓库地址：[https://github.com/wechaty/wechaty](https://github.com/wechaty/wechaty)
-      开源协议：Apache-2.0 License
-    - 项目名称：wechaty blogs
-      项目仓库地址：[https://github.com/wechaty/wechaty.js.org](https://github.com/wechaty/wechaty.js.org)
-      开源协议：Apache-2.0 License
+      项目仓库地址：<https://github.com/wechaty/wechaty>
+      开源协议：Apache-2.0
+    - 项目名称：python-wechaty
+      项目仓库地址：<https://github.com/wechaty/python-wechaty>
+      开源协议：Apache-2.0
+    - 项目名称：java-wechaty
+      项目仓库地址：<https://github.com/wechaty/java-wechaty>
+      开源协议：Apache-2.0
+    - 项目名称：go-wechaty
+      项目仓库地址：<https://github.com/wechaty/go-wechaty>
+      开源协议：Apache-2.0
+    - 项目名称：php-wechaty
+      项目仓库地址：<https://github.com/wechaty/php-wechaty>
+      开源协议：Apache-2.0
+    - 项目名称：wechaty-puppet-officical-account
+      项目仓库地址：<https://github.com/wechaty/php-wechaty>
+      开源协议：Apache-2.0
 
 ## 报名问卷调查
 
 1. 您的社区参加“暑期2021”希望有什么样的收获？
 
-   我们希望能吸引更多优秀的开发者加入Wechaty社区，共同为Chatbot贡献力量。
+    `暑期2021` 是一个拥有强大号召力的开发夏令营活动，能够汇聚全国优秀学生开发者。Wechaty社区需要年轻的血液加入，相信有他们的加入，wechaty社区将会拥有一个快速的发展。
+
+    在`暑期2020`的活动中，Wechaty社区已有多名学生成为contributor，同时有3名学生进入Wechaty Summer Admin。相信在今年的活动中会有更多优秀学生加入Wechaty社区，带来更多的可能性。
 
 2. 您的社区认为一个成功的“暑期2021”是什么样的？
 
-  - 能吸引新鲜血液加入社区并保持长期活跃
-  - 学生能基本完成社区发布的任务并感受到能力的提升
+      对于学生而言：
+
+      - 熟练使用社区相关工具链
+      - 熟悉社区的代码规范，并培养优秀的编码习惯
+
+    对于社区而言：
+
+      - 有多名活跃的学生开发者成为contributor
+      - 优化社区现存的问题
+      - 给社区引入新的特性
 
 3. 今年有多少潜在导师同意参与指导该项目？
 
+    今年有21位潜在导师同意参与指导不同项目，详细可看：<https://github.com/wechaty/summer-of-code/issues>
+
 4. 您的社区将如何让导师与学生保持互动？
 
-  - 我们今年的Admin团队由暑期2020的优秀导师和学生组成，由这些有经验的贡献者来协调导师和学生的交流，相信可以取得很好的效果
-  - 我们计划组织学生每周提交一次周报Blog，分享本周遇到的困难和收获；同时要求导师尽快对周报做出评价并提出意见。我们相信，这种基于博客的交流不仅可以保证导师和学生之间的良性沟通，也可以在不同项目的学生间构建交流和学习的平台
+   为了让学生学到更多的东西，保持导师和学生的高频互动，我们有以下计划：
+
+    - 学生会提交周报，让导师掌握学生每周的工作量。
+    - 导师会review学生每一行代码，并给出自己的建议。
+    - 导师会在issue列表中与学生讨论相关解决方案，且是open给整个开源社区。
+    - 学生也可以review导师的代码，提升学生的成就感。
+
+   此外，我们今年的Admin团队由暑期2020的优秀导师和学生组成，由这些有经验的贡献者来协调导师和学生的交流，相信可以取得很好的效果
 
 5. 您的社区将如何帮助中选学生按时完成他们的项目？
 
-  - 要求学生提交每周周报，要求导师及时对周报做出回复
+   社区将建立中期、结项目标，在截止日期之前会完成所有项目完成率的检查，并进行对应的鼓励和提醒。如有部分学生由于非主观意愿未完成项目，会安排导师与学生的专项讨论会议，同时Wechaty Admin 会跟踪进度。
 
 6. 您的社区是否参与了“暑期2020”？是
 
