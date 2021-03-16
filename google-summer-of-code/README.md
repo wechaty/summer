@@ -14,18 +14,21 @@ Wechaty is applying to join GSoC in 2021 as its first time.
 
 - [2021](2021/)
 
-- HOWTO: Propose a project idea: <proposing-new-project-ideas.md>
+### Useful links
+
+- HOWTO: Propose a project idea: [proposing-new-project-ideas.md](proposing-new-project-ideas.md)
 - Mentor Registration: <https://forms.gle/RiXWabFfJLi8qErj8>
 
 ## For Mentors
 
-- GSoC Mentor Guide: <https://google.github.io/gsocguides/mentor/>
-- Mentor Participant Agreement: <https://summerofcode.withgoogle.com/terms/mentor>
-- Mentor Responsibilities: <https://developers.google.com/open-source/gsoc/help/responsibilities#mentor_responsibilities>
+- GSoC Mentor Guide <https://google.github.io/gsocguides/mentor/>
+- Mentor Participant Agreement <https://summerofcode.withgoogle.com/terms/mentor>
+- Mentor Responsibilities <https://developers.google.com/open-source/gsoc/help/responsibilities#mentor_responsibilities>
     > OSPP 中文版：<https://summer.iscas.ac.cn/help/mentor/>
-- Defining a Project (Ideas List): <https://google.github.io/gsocguides/mentor/defining-a-project-ideas-list>
-- How to Choose a Google Summer of Code Student: <https://youtu.be/KJ9UL6DSsr0>
-- Being a Great Google Summer of Code Mentor: <https://youtu.be/3J_eBuYxcyg>
+- Defining a Project (Ideas List) <https://google.github.io/gsocguides/mentor/defining-a-project-ideas-list>
+- How to Choose a Google Summer of Code Student <https://youtu.be/KJ9UL6DSsr0>
+- Being a Great Google Summer of Code Mentor <https://youtu.be/3J_eBuYxcyg>
+- Tips for finding the “right” GSoC student for your org <https://docs.google.com/document/d/1HrCuijYNfDZGaQ9Eyp0HQ6iXuELRmDSimrSkrJRtwug/edit>
 
 ## For Org Admin
 
