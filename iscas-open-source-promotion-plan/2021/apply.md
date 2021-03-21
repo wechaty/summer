@@ -10,9 +10,9 @@
 
 - 社区或开源项目名称：Wechaty
 - 社区官方网址：<https://wechaty.js.org/>
-- 联系人：吴京京
+- 联系人：范蕊
 - 联系方式：
-  - 邮箱：wjmcater@gmail.com
+  - 邮箱：froxanne1024@gmail.com
 
 ## 社区基本信息
 
@@ -64,8 +64,8 @@
     - 项目名称：php-wechaty
       项目仓库地址：<https://github.com/wechaty/php-wechaty>
       开源协议：Apache-2.0
-    - 项目名称：wechaty-puppet-officical-account
-      项目仓库地址：<https://github.com/wechaty/php-wechaty>
+    - 项目名称：wechaty-puppet-official-account
+      项目仓库地址：<https://github.com/wechaty/wechaty-puppet-official-account>
       开源协议：Apache-2.0
 
 ## 报名问卷调查
