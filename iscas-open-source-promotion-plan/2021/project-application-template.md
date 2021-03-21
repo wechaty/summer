@@ -1,11 +1,13 @@
 ## OSPP 项目申请书模板
 
-下面给出的申请书模板中被"[]"包围的部分需要替代为项目相关内容
+下面给出的申请书模板中被"[]"包围的部分需要替代为项目相关内容，请各位导师在2021.3.28 20:00(UTC+8)前在[本仓库Issue页面](https://github.com/wechaty/summer-of-wechaty/issues)修改或创建对应的Issue，内容为以下面内容为模板的项目申请书。导师们构思时，可以参考[暑期2020项目申请书](https://github.com/wechaty/summer-of-wechaty/issues?q=is%3Aissue+is%3Aclosed)的内容。
 
 ## 开源软件供应链点亮计划
 
 “开源软件供应链点亮计划-暑期2021”（以下简称 暑期2021）是由中科院软件所与 openEuler 社区共同举办的一项面向高校学生的暑期活动，旨在鼓励在校学生积极参与开源软件的开发维护，促进国内优秀开源软件社区的蓬勃发展。
+
 根据项目的难易程度和完成情况，参与者还可获取“开源软件供应链点亮计划-暑期2021”活动奖金和奖杯。
+
 官网：[summer.iscas.ac.cn](https://summer.iscas.ac.cn/)
 
 ## Wechaty
