@@ -9,3 +9,7 @@ Google Season of Docs (GSoD) bring open source and technical writer communities 
 ## Years
 
 - [2021](2021/)
+
+## Links
+
+- [Five web analytics metrics for technical writers](https://techwhirl.com/five-web-analytics-metrics-for-technical-writers/)
