@@ -13,3 +13,4 @@ Google Season of Docs (GSoD) bring open source and technical writer communities 
 ## Links
 
 - [Five web analytics metrics for technical writers](https://techwhirl.com/five-web-analytics-metrics-for-technical-writers/)
+- [How to Become a Technical Writer: A Beginner’s Guide](https://www.instructionalsolutions.com/blog/become-a-technical-writer)
