@@ -10,6 +10,10 @@ Google Season of Docs (GSoD) bring open source and technical writer communities 
 
 - [2021](2021/)
 
+## Issues
+
+- Google Season of Docs Application [#72](https://github.com/wechaty/summer-of-wechaty/issues/72)
+
 ## Links
 
 - [Five web analytics metrics for technical writers](https://techwhirl.com/five-web-analytics-metrics-for-technical-writers/)
