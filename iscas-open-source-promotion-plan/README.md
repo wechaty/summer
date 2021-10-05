@@ -24,10 +24,11 @@ Institute of Software Chinese Academy of Sciences (ISCAS) Open Source Promotion 
 - [Bohao](https://wechaty.js.org/contributors/rickyyin98/), CMO of Juzi.BOT
 - [Jing](https://wechaty.js.org/contributors/wj-mcat), Author of [Python Wechaty](https://github.com/wechaty/python-wechaty)
 - [Huan](https://wechaty.js.org/contributors/huan), Tencent TVP of Chatbot, Creator of Wechaty
+- [Rui](https://pre-angel.com/peoples/jiarui-li/), Microsoft AI [MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003226), Co-creator of Wechaty
 
 ### 2021
 
 - [Jing](https://wechaty.js.org/contributors/wj-mcat), Author of [Python Wechaty](https://github.com/wechaty/python-wechaty)
-- [Zilin](https://wechaty.js.org/contributors/godkillerxiao), Undergraduate of Sichuan University, Author of [Wechaty-Meme-Bot](https://github.com/MrZilinXiao/python-wechaty-meme-bot)
 - [Fairy](https://github.com/Roxanne718), Author of [Lark Puppet](https://github.com/wechaty/wechaty-puppet-lark)
-- [Jihuayu](https://github.com/jihuayu), Game Developer
+- [Huan](https://wechaty.js.org/contributors/huan), Tencent TVP of Chatbot, Creator of Wechaty
+- [Rui](https://pre-angel.com/peoples/jiarui-li/), Microsoft AI [MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003226), Co-creator of Wechaty

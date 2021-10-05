@@ -1,0 +1,20 @@
+#接龙
+『暑期2021中期 Demo Day 视频完成确认』
+
+[烟花]XX（时间）[烟花] 将会进行 Wechaty 的中期 Demo Day 展示，每个学生进行Wechaty的中期答辩。
+
+期中 Demo Day 视频需要2个视频：
+1. 期中汇报视频 （3-5分钟的、有真人出镜的、基于PPT的展示）
+2. Live Coding 视频（不限时长的、有真人出镜的 Live Coding）
+
+可以参考去年@范蕊 的视频：
+1. 答辩视频：https://www.bilibili.com/video/BV1n54y1U7Fn
+2. Live Coding: https://www.bilibili.com/video/BV1v54y1e7LM
+
+视频提交截止日期：
+[爆竹] XX（时间） [爆竹]
+请及时提交，或者会影响项目评分。
+
+各个项目的同学 ，在完成视频录制后，接龙确认。（同时将视频链接更新到对应的 GitHub Issue）
+
+1. 姓名/项目简介/Issue#
