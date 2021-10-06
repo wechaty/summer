@@ -98,6 +98,7 @@ Wechaty 社区秉持开源开放的的原则，所有会议记录、在线会议
 - [期初见面会](iscas-open-source-promotion-plan/2021/org-admin-first-meeting.md)
 - [期中报告状态收集 & 答辩](iscas-open-source-promotion-plan/2021/org-admin-mid-term.md)
 - [期末报告状态收集 & 答辩](iscas-open-source-promotion-plan/2021/org-admin-final-term.md)
+- [复盘 & 展望](iscas-open-source-promotion-plan/2021/org-admin-be-better.md)
 
 ## Contact us
 
