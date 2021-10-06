@@ -1,0 +1,19 @@
+📢 我们将在 【X月X日（周X）晚 XX:00】进行 Wechaty 的中期 Demo Day，每个学生进行Wechaty的中期答辩。社区导师、同学们有以下工作需要完成，以满足 Wechaty 社区和 OSPP 组委会的要求。
+
+学生需要完成：
+1. X.XX号之前完成【组委会中期报告提交】
+2. X.XX号之前完成【期中 Demo Day 视频】
+3. X.XX号之前完成【Wechaty 社区期中报告博客】
+
+导师需要完成：
+1. X.XX号之前完成【组委会中期报告评审】
+2. X.XX号之前完成【Wechaty 社区期中报告导师评审】
+
+请各位同学和导师把提交给组委会的中期报告和评审内容同步回复到自己项目的issue下面，因为这样可以开放给社区所有人看到。
+
+关于期中内容请看 https://github.com/wechaty/summer/issues/XX#issuecomment-期中报告issue通知
+去年期中Demo Day 会议博客在这里：https://wechaty.js.org/2020/08/22/summer-2020-wechaty-soc-midterm-demo-day/
+更多详细信息可以看 Wechaty 开源之夏指导手册：https://wechaty.js.org/2021/06/24/summer-wechaty-guide/
+
+X月X日会议议程信息在这里，参加的同学也请提前注册：https://bit.ly/MeetingNotes地址短连接
+
