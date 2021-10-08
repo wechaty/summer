@@ -26,7 +26,7 @@
 ## 2. 期末报告
 
 - 标题： `OSPP 2021-结项报告-你的标题`
-- 文件名： `2021-XX-XX-ospp-final-XX`
+- 文件名： `2021-XX-XX-ospp-final-term-XX`
 - 报告 category 为：`project`, `ospp`
 - 报告 tag 至少包括：`summer-of-wechaty`,`summer-2021`,`ospp`,`ospp-2021`,`final-term`
 - 报告内容至少包括：
