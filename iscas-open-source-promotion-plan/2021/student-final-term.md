@@ -45,7 +45,7 @@
 
 **提交PR时请注意：为这个 PR 打上 `ospp` 的标签，并在 PR 中填写自己项目的 GitHub Issue 链接，方便组委会进行审核。**
 
-报告模板参考：[final-term-template](template/final-term-template.md)
+报告模板参考：[final-term-template](../template/final-term-template.md)
 
 ## 3. OSPP 2020 学生期末报告参考
 

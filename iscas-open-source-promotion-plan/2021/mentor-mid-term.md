@@ -10,4 +10,4 @@
 
 同时，按照社区博客提交规范，对学生提交的博客进行审核，审核通过后，在 GitHub **Approve** 这个 PR，然后交由 Wechaty PMC 进行博客审核。注意，社区导师一定要**提前、优先 Approve** 自己同学的 PR。
 
-评审模板参考：[mentor-mid-term-template](template/mentor-mid-term-template.md)
+评审模板参考：[mentor-mid-term-template](../template/mentor-mid-term-template.md)
