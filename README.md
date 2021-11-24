@@ -6,6 +6,14 @@ Summer of Wechaty is ... an community event organized by Wechaty organization fo
 1. [Google Season of Docs (GSoD)](google-season-of-docs/)
 1. [ISCAS Open Source Promotion Plan](iscas-open-source-promotion-plan/)
 
+### Resource
+
+- [Wechaty Introdcution](https://docs.google.com/presentation/d/1u5I0fUG5Fb1mnTLphDTckACJIdxGkuWXDai0Oo4vJvs/edit#slide=id.gfac80a92a2_0_0)
+- [Wechaty Best Practice](https://docs.google.com/presentation/d/1rWd7aLozgPFyPiSbyxqw1GeGV2-NCGRKvDOUcq9VYcw/edit#slide=id.gec336ad374_1_0)
+- [Wechaty 社区开源协作最佳实践指南](https://wechaty.js.org/2021/06/23/the-wechaty-way/)
+- [OSPP（开源之夏）指导手册 - 2021](https://wechaty.js.org/2021/06/24/summer-wechaty-guide/)
+- [Google Season Of Docs (GSoD) Guide](https://wechaty.js.org/2021/07/10/google-season-of-docs-guide/)
+
 ## Apply Mentor & Publish Projects (Ideas List)
 
 Google Form: <https://forms.gle/RiXWabFfJLi8qErj8>
