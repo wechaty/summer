@@ -1,8 +1,9 @@
 ## Google Summer of Code in Wechaty 2022
 
-- Project Ideas List: [project-ideas.md](project-ideas)
-- Organization Application: [organization-application.md](organization-application)
-- Google Summer of Code (GSoC) 2022: <https://github.com/wechaty/summer-of-wechaty/milestone/X>
+- Organization Profile: [Organization_Profile.md](Organization_Profile.md)
+- Organization Questionnaire: [Organization_Questionnaire.md](Organization_Questionnaire.md)
+- Organization Application: [Program_Application.md](Program_Application.md)
+- Project Ideas List: [Project_Ideals.md](Project_Ideals.md)
 
 ## Wechaty Organization Administrators
 
