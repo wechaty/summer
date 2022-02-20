@@ -1,7 +1,6 @@
 ## Ideas List
 
-https://github.com/wechaty/summer/blob/master/google-summer-of-code/2022/Project_Ideals.md
+https://wechaty.js.org/docs/gsoc/2022/
 
 ## Mentors
 6
-
